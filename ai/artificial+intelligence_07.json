@@ -1,0 +1,542 @@
+{
+  "searchInformation": {
+    "formattedTotalResults": "4,030,000",
+    "searchTime": 0.26913,
+    "formattedSearchTime": "0.27",
+    "totalResults": "4030000"
+  },
+  "context": {
+    "title": "Patent Analysis"
+  },
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "nextPage": [
+      {
+        "startIndex": 17,
+        "safe": "off",
+        "searchTerms": "artificial intelligence",
+        "cx": "000401063296163684824:-zjnv7z7vhu",
+        "inputEncoding": "utf8",
+        "title": "Google Custom Search - artificial intelligence",
+        "outputEncoding": "utf8",
+        "totalResults": "4030000",
+        "count": 10
+      }
+    ],
+    "previousPage": [
+      {
+        "startIndex": 1,
+        "safe": "off",
+        "searchTerms": "artificial intelligence",
+        "cx": "000401063296163684824:-zjnv7z7vhu",
+        "inputEncoding": "utf8",
+        "title": "Google Custom Search - artificial intelligence",
+        "outputEncoding": "utf8",
+        "totalResults": "4030000",
+        "count": 10
+      }
+    ],
+    "request": [
+      {
+        "startIndex": 7,
+        "safe": "off",
+        "searchTerms": "artificial intelligence",
+        "cx": "000401063296163684824:-zjnv7z7vhu",
+        "inputEncoding": "utf8",
+        "title": "Google Custom Search - artificial intelligence",
+        "outputEncoding": "utf8",
+        "totalResults": "4030000",
+        "count": 10
+      }
+    ]
+  },
+  "items": [
+    {
+      "htmlTitle": "Patent EP2495021A1 - <b>Artificial intelligence</b> for games - Google <b>...</b>",
+      "link": "http://www.google.com/patents/EP2495021A1?cl=en",
+      "displayLink": "www.google.com",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "height": "98",
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQig1jxtebWSPfsPVofN7oqf3bP14_8nhjPzuykRq4uVulR_L92yC0m",
+            "width": "64"
+          }
+        ],
+        "book": [
+          {
+            "image": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1",
+            "name": "Patent EP2495021A1 - Artificial intelligence for games",
+            "url": "http://www.google.com/patents/EP2495021A1?cl=en&utm_source=gb-gplus-share",
+            "description": "A program for platform games using AI and make a computer to act including steps of: deciding a solution for platform game includes: initializing solutions (S101), selecting an initial solution..."
+          }
+        ],
+        "metatags": [
+          {
+            "og:title": "Patent EP2495021A1 - Artificial intelligence for games",
+            "dc.title": "Artificial intelligence for games",
+            "dc.date": "2011-11-14",
+            "dc.relation": "EP:1206144:A2",
+            "title": "Patent EP2495021A1 - Artificial intelligence for games",
+            "og:type": "book",
+            "citation_patent_publication_number": "EP:2495021:A1",
+            "og:url": "http://www.google.com/patents/EP2495021A1?cl=en",
+            "citation_patent_application_number": "EP:20110189030",
+            "citation_reference": "\"Engineering optimisation by cuckoo search\", INT. J. MATHEMATICAL MODELLING AND NUMERICAL OPTIMISATION, vol. 1, no. 4, May 2010 (2010-05-01), pages 330 - 343",
+            "og:image": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1",
+            "dc.type": "Patent",
+            "dc.contributor": "Erek Speed",
+            "dc.description": "A program for platform games using AI and make a computer to act including steps of: deciding a solution for platform game includes: initializing solutions (S101), selecting an initial solution and a new solution (S102), a first comparison of fitness score (S103); generating a current solution (S104); repeating generating another new solution and comparing fitness scores (S105); and replacing a state (S106).",
+            "og:site_name": "Google Books"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "http://patentimages.storage.googleapis.com/thumbnails/EP2495021A1/srep0004.png"
+          }
+        ]
+      },
+      "htmlSnippet": "Sep 5, 2012 <b>...</b> <b>Artificial intelligence</b> for games. EP 2495021 A1. Abstract. A program for platform <br>\ngames using AI and make a computer to act including steps&nbsp;...",
+      "title": "Patent EP2495021A1 - Artificial intelligence for games - Google ...",
+      "snippet": "Sep 5, 2012 ... Artificial intelligence for games. EP 2495021 A1. Abstract. A program for platform \ngames using AI and make a computer to act including steps\u00a0...",
+      "kind": "customsearch#result",
+      "formattedUrl": "www.google.com/patents/EP2495021A1?cl=en",
+      "htmlFormattedUrl": "www.google.com/patents/EP2495021A1?cl=en"
+    },
+    {
+      "htmlTitle": "Patent US6553355 - Autopoietic network system endowed with <b>...</b>",
+      "link": "http://www.google.com/patents/US6553355",
+      "displayLink": "www.google.com",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "height": "96",
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQnJguj2aFxgQXDCD3XtfjB5wFoD4knnkbxWyq0unp6dqCiDnrzXhKguQ",
+            "width": "68"
+          }
+        ],
+        "book": [
+          {
+            "image": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1",
+            "name": "Patent US6553355 - Autopoietic network system endowed with distributed artificial intelligence for the supply of high volume high-speed multimedia telesthesia telemetry, telekinesis, telepresence,...",
+            "url": "http://www.google.com/patents/US6553355?utm_source=gb-gplus-share",
+            "description": "An autopoietic network is described. The network system has distributed artificial intelligence and may be used to supply high volume, high speed, multi media, telesthesia, telemetry, telekinesis,..."
+          }
+        ],
+        "metatags": [
+          {
+            "og:title": "Patent US6553355 - Autopoietic network system endowed with distributed artificial intelligence for the supply of high volume high-speed multimedia telesthesia telemetry, telekinesis, telepresence, telemanagement, telecommunications, and data processing services",
+            "dc.title": "Autopoietic network system endowed with distributed artificial intelligence for the supply of high volume high-speed multimedia telesthesia telemetry, telekinesis, telepresence, telemanagement, telecommunications, and data processing services",
+            "citation_patent_number": "US:6553355",
+            "dc.date": "1998-8-13",
+            "title": "Patent US6553355 - Autopoietic network system endowed with distributed artificial intelligence for the supply of high volume high-speed multimedia telesthesia telemetry, telekinesis, telepresence, telemanagement, telecommunications, and data processing services",
+            "og:type": "book",
+            "dc.relation": "US:4939726",
+            "og:url": "http://www.google.com/patents/US6553355",
+            "citation_patent_application_number": "US:09/134,074",
+            "citation_reference": "Braunstein, S.L.; Kimble, H.J.; Sorensen, Y.; Furusawa, A.; Georgiades, N.P., Teleportation of continuous quantum variables, Quantum Electronics Conference, 1998. IQEC 98. Technical Digest. Summaries of papers presented at the International, 1998, Pages(s), Jan. 1998.*",
+            "og:image": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1",
+            "dc.type": "Patent",
+            "dc.contributor": "Louis Auguste Arnoux",
+            "dc.description": "An autopoietic network is described. The network system has distributed artificial intelligence and may be used to supply high volume, high speed, multi media, telesthesia, telemetry, telekinesis, telepresence, telemanagement, telecommunications and data processing services. The invention is implemented by means of a non-hierarchical network having a fractal structure. That is, the system is structured as a network of networks that may individually display self-similar characteristics at all levels of aggregation at which they are considered. The system and its constituent networks are structurally coupled with their environment through hermeneutic processes. These processes are not based on, and do not use, a priori representations of their environment or of the networks themselves. The system includes a number of cybernetic devices which are adapted to function as both the infrastructure of the network and the means by which the network services are delivered to network users. These cybernetic devices commu",
+            "og:site_name": "Google Books"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "http://patentimages.storage.googleapis.com/thumbnails/US6553355B1/US06553355-20030422-D00003.png"
+          }
+        ]
+      },
+      "htmlSnippet": "Apr 22, 2003 <b>...</b> The network system has distributed <b>artificial intelligence</b> and may be used to <br>\nsupply high volume, high speed, multi media, telesthesia,&nbsp;...",
+      "title": "Patent US6553355 - Autopoietic network system endowed with ...",
+      "snippet": "Apr 22, 2003 ... The network system has distributed artificial intelligence and may be used to \nsupply high volume, high speed, multi media, telesthesia,\u00a0...",
+      "kind": "customsearch#result",
+      "formattedUrl": "www.google.com/patents/US6553355",
+      "htmlFormattedUrl": "www.google.com/patents/US6553355"
+    },
+    {
+      "htmlTitle": "Patent WO2013062937A2 - Enhancing diagnosis of disorder <b>...</b>",
+      "link": "http://www.google.com/patents/WO2013062937A2?cl=en",
+      "displayLink": "www.google.com",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "height": "242",
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQxxZkL5_Wt4_Ej7oN_33qJUnkEvand7_3z8xbELzxr0toZFzGY2UHFKOU",
+            "width": "208"
+          }
+        ],
+        "book": [
+          {
+            "image": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1",
+            "name": "Patent WO2013062937A2 - Enhancing diagnosis of disorder through artificial intelligence and mobile health technologies without compromising accuracy",
+            "url": "http://www.google.com/patents/WO2013062937A2?cl=en&utm_source=gb-gplus-share",
+            "description": "A computer system for generating a diagnostic tool by applying artificial intelligence to an instrument for diagnosis of a disorder, such as autism. For autism, the instrument can be a caregiver-di..."
+          }
+        ],
+        "metatags": [
+          {
+            "og:title": "Patent WO2013062937A2 - Enhancing diagnosis of disorder through artificial intelligence and mobile health technologies without compromising accuracy",
+            "dc.date": "2012-10-23",
+            "dc.relation": "US:20030032069:A1",
+            "title": "Patent WO2013062937A2 - Enhancing diagnosis of disorder through artificial intelligence and mobile health technologies without compromising accuracy",
+            "og:type": "book",
+            "citation_patent_publication_number": "WO:2013062937:A2",
+            "og:url": "http://www.google.com/patents/WO2013062937A2?cl=en",
+            "citation_patent_application_number": "WO:PCT/US2012/061422",
+            "dc.title": "Enhancing diagnosis of disorder through artificial intelligence and mobile health technologies without compromising accuracy",
+            "og:image": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1",
+            "dc.type": "Patent",
+            "dc.contributor": "Dennis WALL",
+            "dc.description": "A computer system for generating a diagnostic tool by applying artificial intelligence to an instrument for diagnosis of a disorder, such as autism. For autism, the instrument can be a caregiver-directed set of questions designed for an autism classification tool or an observation of the subject in a video, video conference, or in person and associated set of questions about behavior that are designed for use in a separate autism classification tool. The computer system can have one or more processors and memory to store one or more computer programs having instructions for generating a highly statistically accurate set of diagnostic items selected from the instrument, which are tested against a first test using a technique using artificial intelligence and a second test against an independent source. Also, a computer implemented method and a non-transitory computer-readable storage medium are disclosed.",
+            "og:site_name": "Google Books"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "http://patentimages.storage.googleapis.com/WO2013062937A2/imgf000041_0001.png"
+          }
+        ]
+      },
+      "htmlSnippet": "May 2, 2013 <b>...</b> A computer system for generating a diagnostic tool by applying <b>artificial</b> <br>\n<b>intelligence</b> to an instrument for diagnosis of a disorder, such as autism.",
+      "title": "Patent WO2013062937A2 - Enhancing diagnosis of disorder ...",
+      "snippet": "May 2, 2013 ... A computer system for generating a diagnostic tool by applying artificial \nintelligence to an instrument for diagnosis of a disorder, such as autism.",
+      "kind": "customsearch#result",
+      "formattedUrl": "www.google.com/patents/WO2013062937A2?cl=en",
+      "htmlFormattedUrl": "www.google.com/patents/WO2013062937A2?cl=en"
+    },
+    {
+      "htmlTitle": "Patent EP0359378A2 - <b>Artificial intelligence</b> for adaptive machining <b>...</b>",
+      "link": "http://www.google.com/patents/EP0359378A2?cl=en",
+      "displayLink": "www.google.com",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "height": "99",
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-GTTdMUkzwfWGbJpkzPbJwzKckzZWokXxN544XnEAUwPhXvhOH3mq",
+            "width": "63"
+          }
+        ],
+        "book": [
+          {
+            "image": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1",
+            "name": "Patent EP0359378A2 - Artificial intelligence for adaptive machining control of surface finish",
+            "url": "http://www.google.com/patents/EP0359378A2?cl=en&utm_source=gb-gplus-share",
+            "description": "A method of using a mathematical model to adaptively control surface roughness when machining a series of workpieces or segments by: (a) linearizing a geometrical surface roughness model; (b)..."
+          }
+        ],
+        "metatags": [
+          {
+            "og:title": "Patent EP0359378A2 - Artificial intelligence for adaptive machining control of surface finish",
+            "dc.date": "1989-7-26",
+            "dc.relation": "EP:0093955:A2",
+            "title": "Patent EP0359378A2 - Artificial intelligence for adaptive machining control of surface finish",
+            "og:type": "book",
+            "citation_patent_publication_number": "EP:0359378:A2",
+            "og:url": "http://www.google.com/patents/EP0359378A2?cl=en",
+            "citation_patent_application_number": "EP:19890307587",
+            "dc.title": "Artificial intelligence for adaptive machining control of surface finish",
+            "og:image": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1",
+            "dc.type": "Patent",
+            "dc.contributor": "Charles Laisau Wu",
+            "dc.description": "A method of using a mathematical model to adaptively control surface roughness when machining a series of workpieces or segments by: (a) linearizing a geometrical surface roughness model; (b) initializing said model essentially as a function of feed; and (c) subjecting the initialized model to computerized estimation based on roughness and feed values taken from the last machined workpiece, thereby to determine the largest allowable feed for attaining a desired surface roughness in subsequently machined workpieces or segments of the series. The mathematical model is an algorithm of the form R = [1262.79]f\u00b2/r. The model is linearized and initialized to give the form R = \u03b2\u2081sRf+\u03b2\u2082Rmax where R is the actual roughness and Rmax is desired roughness, f is actual feed, \u03b2\u2081 and \u03b2\u2082 are coefficients to be updated by estimation, and sR is a scale factor chosen to make the first term have the same order of magnitude as the second term. Computerized estimation is carried out by converting the above initialized ",
+            "og:site_name": "Google Books"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "http://patentimages.storage.googleapis.com/thumbnails/EP0359378A2/imgf0004.png"
+          }
+        ]
+      },
+      "htmlSnippet": "Mar 21, 1990 <b>...</b> <b>Artificial intelligence</b> for adaptive machining control of surface finish. EP 0359378 <br>\nA2. Abstract. A method of using a mathematical model to&nbsp;...",
+      "title": "Patent EP0359378A2 - Artificial intelligence for adaptive machining ...",
+      "snippet": "Mar 21, 1990 ... Artificial intelligence for adaptive machining control of surface finish. EP 0359378 \nA2. Abstract. A method of using a mathematical model to\u00a0...",
+      "kind": "customsearch#result",
+      "formattedUrl": "www.google.com/patents/EP0359378A2?cl=en",
+      "htmlFormattedUrl": "www.google.com/patents/EP0359378A2?cl=en"
+    },
+    {
+      "htmlTitle": "Patent US8583574 - Method of and apparatus for combining <b>...</b>",
+      "link": "http://www.google.com/patents/US8583574",
+      "displayLink": "www.google.com",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "height": "96",
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS6ZnlxY79aN0ainP35bfUAcv47DNpmjXAowJY0aCBAxv_iR-w0hDb7-A",
+            "width": "76"
+          }
+        ],
+        "book": [
+          {
+            "image": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1",
+            "name": "Patent US8583574 - Method of and apparatus for combining artificial intelligence (AI) concepts with event-driven security architectures and ideas",
+            "url": "http://www.google.com/patents/US8583574?utm_source=gb-gplus-share",
+            "description": "User authentication apparatus controlling access to systems, inputs owner's login name and password and then extracts the owner's timing vectors from keystroke characteristics with which the..."
+          }
+        ],
+        "metatags": [
+          {
+            "og:title": "Patent US8583574 - Method of and apparatus for combining artificial intelligence (AI) concepts with event-driven security architectures and ideas",
+            "dc.title": "Method of and apparatus for combining artificial intelligence (AI) concepts with event-driven security architectures and ideas",
+            "citation_patent_number": "US:8583574",
+            "dc.date": "2008-8-6",
+            "title": "Patent US8583574 - Method of and apparatus for combining artificial intelligence (AI) concepts with event-driven security architectures and ideas",
+            "og:type": "book",
+            "dc.relation": "US:20020055350:A1",
+            "og:url": "http://www.google.com/patents/US8583574",
+            "citation_patent_application_number": "US:12/221,757",
+            "citation_reference": "Abuguba, \"Performance Evaluation of Rapid Spanning Tree Protocol by Measurements and Simulation\", Budapest 2006.",
+            "og:image": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1",
+            "dc.type": "Patent",
+            "dc.contributor": "Ralph A. Rodriguez",
+            "dc.description": "User authentication apparatus controlling access to systems, inputs owner's login name and password and then extracts the owner's timing vectors from keystroke characteristics with which the owner forms a training set. A semantic network uses multiple links to indicate that different pattern components of user's behavioral access create different kinds of relationships and \u201csymbolic representations\u201d. A neural network is trained by using each of the owner's timing vectors in the training set as an input. When a user inputs the owner's login name and password, it's checked and the user's timing vector is extracted to type the user's password if checked and demoted in confidence level if otherwise. The user's timing vector is applied to neural network and difference between the input/output is compared with a predetermined threshold; and if the difference is greater than the threshold, is prohibited. Preferably this is aided by response time to personal questions.",
+            "og:site_name": "Google Books"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "http://patentimages.storage.googleapis.com/thumbnails/US8583574B2/US08583574-20131112-D00002.png"
+          }
+        ]
+      },
+      "htmlSnippet": "Nov 12, 2013 <b>...</b> Method of and apparatus for combining <b>artificial intelligence</b> (AI) concepts with <br>\nevent-driven security architectures and ideas. US 8583574 B2.",
+      "title": "Patent US8583574 - Method of and apparatus for combining ...",
+      "snippet": "Nov 12, 2013 ... Method of and apparatus for combining artificial intelligence (AI) concepts with \nevent-driven security architectures and ideas. US 8583574 B2.",
+      "kind": "customsearch#result",
+      "formattedUrl": "www.google.com/patents/US8583574",
+      "htmlFormattedUrl": "www.google.com/patents/US8583574"
+    },
+    {
+      "htmlTitle": "Patent US7062073 - Animated toy utilizing <b>artificial intelligence</b> and <b>...</b>",
+      "link": "https://www.google.com/patents/US7062073",
+      "displayLink": "www.google.com",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "height": "96",
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQqek3WNoRwv6qPtkF_s5F7v2tcjk9F4LDXRkums35ayWaM2o7vOoNRgQ",
+            "width": "83"
+          }
+        ],
+        "book": [
+          {
+            "image": "https://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1",
+            "name": "Patent US7062073 - Animated toy utilizing artificial intelligence and facial image recognition",
+            "url": "https://www.google.com/patents/US7062073?utm_source=gb-gplus-share",
+            "description": "An articulated and animated toy capable of recognizing human users and selected inanimate objects and interacting therewith which includes a computer-based device having stored thereon encoded..."
+          }
+        ],
+        "metatags": [
+          {
+            "dc.title": "Animated toy utilizing artificial intelligence and facial image recognition",
+            "dc.date": "2000-1-19",
+            "dc.relation": "EP:0247788:A2",
+            "dc.type": "Patent",
+            "dc.contributor": "David M. Tumey",
+            "dc.description": "An articulated and animated toy capable of recognizing human users and selected inanimate objects and interacting therewith which includes a computer-based device having stored thereon encoded first human or human-like facial images, a video camera and video digitizer for acquiring data representative of a second human or human-like facial image, and software resident within said computer-based device for facial recognition, which includes Principal Component Analysis, Neural Networks, or another equivalent algorithm for comparing said first human or human-like facial images with said second human or human-like facial image and producing an output signal therefrom for use in identifying said human users. The apparatus can further include software for recognizing speech, generating speech and controlling animation of the articulated toy. In addition, said computer-based device is capable of learning and storing information pertaining to each of said human users such as name, age, sex, favorite color, etc., and"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://patentimages.storage.googleapis.com/thumbnails/US7062073B1/US07062073-20060613-D00003.png"
+          }
+        ]
+      },
+      "htmlSnippet": "Jun 13, 2006 <b>...</b> Animated toy utilizing <b>artificial intelligence</b> and facial image recognition. US <br>\n7062073 B1. Abstract. An articulated and animated toy capable of&nbsp;...",
+      "title": "Patent US7062073 - Animated toy utilizing artificial intelligence and ...",
+      "snippet": "Jun 13, 2006 ... Animated toy utilizing artificial intelligence and facial image recognition. US \n7062073 B1. Abstract. An articulated and animated toy capable of\u00a0...",
+      "kind": "customsearch#result",
+      "formattedUrl": "https://www.google.com/patents/US7062073",
+      "htmlFormattedUrl": "https://www.google.com/patents/US7062073"
+    },
+    {
+      "htmlTitle": "Patent US8924218 - Automated personal assistance system <b>...</b>",
+      "link": "http://www.google.com/patents/US8924218",
+      "displayLink": "www.google.com",
+      "pagemap": {
+        "book": [
+          {
+            "image": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1",
+            "name": "Patent US8924218 - Automated personal assistance system",
+            "url": "http://www.google.com/patents/US8924218?utm_source=gb-gplus-share",
+            "description": "An automated personal assistance system employing artificial intelligence technology that includes speech recognition and synthesis, situational awareness, pattern and behavioral recognition,..."
+          }
+        ],
+        "metatags": [
+          {
+            "og:title": "Patent US8924218 - Automated personal assistance system",
+            "dc.title": "Automated personal assistance system",
+            "citation_patent_number": "US:8924218",
+            "dc.date": "2011-11-29",
+            "title": "Patent US8924218 - Automated personal assistance system",
+            "og:type": "book",
+            "dc.relation": "JP:2009277063",
+            "og:url": "http://www.google.com/patents/US8924218",
+            "citation_patent_application_number": "US:13/306,755",
+            "citation_reference": "AT Sciences, \"Smart Power-Assist Module\", http://www.at-sciences.com/projects/powerassist.html; Accessed Nov. 16, 2010.",
+            "dc.type": "Patent",
+            "dc.contributor": "Greg L. Corpier",
+            "dc.description": "An automated personal assistance system employing artificial intelligence technology that includes speech recognition and synthesis, situational awareness, pattern and behavioral recognition, and the ability to learn from the environment. Embodiments of the system include environmental and occupant sensors and environmental actuators interfaced to an assistance controller having the artificial intelligence technology incorporated therein to control the environment of the system. An embodiment of the invention is implemented as a vehicle which reacts to voice command for movement and operation of the vehicle and detects objects, obstructions, and distances. This invention provides the ability to monitor for the safety of operation and modify dangerous maneuvers as well as to learn locations in the environment and to automatically find its way to them. The system may also incorporate communication capability to convey patterns of environmental and occupant parameters and to a monitoring center."
+          }
+        ]
+      },
+      "htmlSnippet": "Dec 30, 2014 <b>...</b> An automated personal assistance system employing <b>artificial intelligence</b> <br>\ntechnology that includes speech recognition and synthesis,&nbsp;...",
+      "title": "Patent US8924218 - Automated personal assistance system ...",
+      "snippet": "Dec 30, 2014 ... An automated personal assistance system employing artificial intelligence \ntechnology that includes speech recognition and synthesis,\u00a0...",
+      "kind": "customsearch#result",
+      "formattedUrl": "www.google.com/patents/US8924218",
+      "htmlFormattedUrl": "www.google.com/patents/US8924218"
+    },
+    {
+      "htmlTitle": "Patent US20130173505 - System and Method For <b>Artificial</b> Lift <b>...</b>",
+      "link": "http://www.google.com/patents/US20130173505",
+      "displayLink": "www.google.com",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "height": "96",
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR0GgVdV-S7UXq5X4KVlz-k4zZ-xPPEUMRYyi7m1uy3LlzeUUZvG4etJA",
+            "width": "90"
+          }
+        ],
+        "book": [
+          {
+            "image": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1",
+            "name": "Patent US20130173505 - System and Method For Artificial Lift System Analysis",
+            "url": "http://www.google.com/patents/US20130173505?utm_source=gb-gplus-share",
+            "description": "A system, method, and computer program product are disclosed for analysis of artificial lift systems. An Artificial Lift Analysis Solution (ALAS) is also provided to view and analyze artificial..."
+          }
+        ],
+        "metatags": [
+          {
+            "og:title": "Patent US20130173505 - System and Method For Artificial Lift System Analysis",
+            "dc.title": "System and Method For Artificial Lift System Analysis",
+            "dc.date": "2012-1-17",
+            "dc.relation": "US:20040133289:A1",
+            "title": "Patent US20130173505 - System and Method For Artificial Lift System Analysis",
+            "citation_patent_publication_number": "US:20130173505:A1",
+            "og:url": "http://www.google.com/patents/US20130173505",
+            "citation_patent_application_number": "US:13/351,318",
+            "citation_reference": "Brenner et al, \"Evolving Technologies: Electrical Submersible Pumps\", Oilfield Review, Winter 2007,pp. 30-43",
+            "dc.type": "Patent",
+            "dc.contributor": "Oluwafemi Opeyemi Balogun",
+            "dc.description": "A system, method, and computer program product are disclosed for analysis of artificial lift systems. An Artificial Lift Analysis Solution (ALAS) is also provided to view and analyze artificial lift well data trends, prediction and detection event alerts, and to diagnose system conditions to facilitate production optimization. Production well information is provided for a plurality of the production wells each being associated with an artificial lift system. Artificial lift system failure alerts for the plurality of production wells are received and processed on a computer. A relevance measure for each of the artificial lift system failure alerts is determined responsive to the production well information. A summary of the artificial lift system failure alerts is displayed in an ordering based on the relevance measure."
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "http://patentimages.storage.googleapis.com/thumbnails/US20130173505A1/US20130173505A1-20130704-D00003.png"
+          }
+        ]
+      },
+      "htmlSnippet": "Jul 4, 2013 <b>...</b> Artificial lift system failure alerts for the plurality of production wells are received ... <br>\n(g) training an <b>artificial intelligence</b> engine with the corrected&nbsp;...",
+      "title": "Patent US20130173505 - System and Method For Artificial Lift ...",
+      "snippet": "Jul 4, 2013 ... Artificial lift system failure alerts for the plurality of production wells are received ... \n(g) training an artificial intelligence engine with the corrected\u00a0...",
+      "kind": "customsearch#result",
+      "formattedUrl": "www.google.com/patents/US20130173505",
+      "htmlFormattedUrl": "www.google.com/patents/US20130173505"
+    },
+    {
+      "htmlTitle": "Patent US20090144173 - Method for converting 2d image into <b>...</b>",
+      "link": "http://www.google.com/patents/US20090144173",
+      "displayLink": "www.google.com",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "height": "99",
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRrqc_woH2d1sbPm6ZkdqZS4uWGuv6RAEBtaJUnvcJKeeuV-0lnxlTijA",
+            "width": "63"
+          }
+        ],
+        "book": [
+          {
+            "image": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1",
+            "name": "Patent US20090144173 - Method for converting 2d image into pseudo 3d image and user-adapted total coordination method in use artificial intelligence, and service business method thereof",
+            "url": "http://www.google.com/patents/US20090144173?utm_source=gb-gplus-share",
+            "description": "The present invention provides a method of generating a pseudo-3D user-adapted avatar by using artificial intelligence based on a method of converting a 2D image to the pseudo-3D image having..."
+          }
+        ],
+        "metatags": [
+          {
+            "og:title": "Patent US20090144173 - Method for converting 2d image into pseudo 3d image and user-adapted total coordination method in use artificial intelligence, and service business method thereof",
+            "dc.date": "2005-12-5",
+            "dc.relation": "US:20010026272:A1",
+            "title": "Patent US20090144173 - Method for converting 2d image into pseudo 3d image and user-adapted total coordination method in use artificial intelligence, and service business method thereof",
+            "og:type": "book",
+            "citation_patent_publication_number": "US:20090144173:A1",
+            "og:url": "http://www.google.com/patents/US20090144173",
+            "citation_patent_application_number": "US:10/583,160",
+            "dc.title": "Method for converting 2d image into pseudo 3d image and user-adapted total coordination method in use artificial intelligence, and service business method thereof",
+            "og:image": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1",
+            "dc.type": "Patent",
+            "dc.contributor": "Yeong-Il Mo",
+            "dc.description": "The present invention provides a method of generating a pseudo-3D user-adapted avatar by using artificial intelligence based on a method of converting a 2D image to the pseudo-3D image having visual and partial functions of a 3D model, and a method of performing a coordination simulation by applying the pseudo-3D coordination image generated by applying total clothes coordination information derived from the artificial intelligence to a user-adapted avatar. The pseudo-3D user-adapted avatar is generated by receiving primary size information and deriving secondary size information from an algorithm by using the primary size information. The pseudo-3D user-adapted avatar image suitable to the user's body shape is generated from the 2D standard avatar image. The pseudo-3D coordination image is generated, from the standard 2D image by using coordination-related information, by an artificial intelligence algorithm, and in response to a corrected pseudo-3D user-adapted avatar image, the generated pseudo-3D coordina",
+            "og:site_name": "Google Books"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "http://patentimages.storage.googleapis.com/thumbnails/US20090144173A1/US20090144173A1-20090604-D00003.png"
+          }
+        ]
+      },
+      "htmlSnippet": "Jun 4, 2009 <b>...</b> The present invention provides a method of generating a pseudo-3D user-<br>\nadapted avatar by using <b>artificial intelligence</b> based on a method of&nbsp;...",
+      "title": "Patent US20090144173 - Method for converting 2d image into ...",
+      "snippet": "Jun 4, 2009 ... The present invention provides a method of generating a pseudo-3D user-\nadapted avatar by using artificial intelligence based on a method of\u00a0...",
+      "kind": "customsearch#result",
+      "formattedUrl": "www.google.com/patents/US20090144173",
+      "htmlFormattedUrl": "www.google.com/patents/US20090144173"
+    },
+    {
+      "htmlTitle": "Patent WO2013008246A1 - An intelligent transformer monitoring <b>...</b>",
+      "link": "http://www.google.com/patents/WO2013008246A1?cl=en",
+      "displayLink": "www.google.com",
+      "pagemap": {
+        "book": [
+          {
+            "image": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1",
+            "name": "Patent WO2013008246A1 - An intelligent transformer monitoring system",
+            "url": "http://www.google.com/patents/WO2013008246A1?cl=en&utm_source=gb-gplus-share",
+            "description": "An intelligent transformer monitoring system being equipped with artificial intelligence in order to process and interpret said second stream data in relation to pre-defined parameters and..."
+          }
+        ],
+        "metatags": [
+          {
+            "og:title": "Patent WO2013008246A1 - An intelligent transformer monitoring system",
+            "dc.date": "2011-8-25",
+            "dc.relation": "US:20090312881:A1",
+            "title": "Patent WO2013008246A1 - An intelligent transformer monitoring system",
+            "og:type": "book",
+            "citation_patent_publication_number": "WO:2013008246:A1",
+            "og:url": "http://www.google.com/patents/WO2013008246A1?cl=en",
+            "citation_patent_application_number": "WO:PCT/IN2011/000577",
+            "dc.title": "An intelligent transformer monitoring system",
+            "og:image": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1",
+            "dc.type": "Patent",
+            "dc.contributor": "David G SANDERS",
+            "dc.description": "An intelligent transformer monitoring system being equipped with artificial intelligence in order to process and interpret said second stream data in relation to pre-defined parameters and models in order to obtain predictions of transformer performance parameters and servicing calls in relation to said predicted performance, thereby obtaining a condition based servicing model.",
+            "og:site_name": "Google Books"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1"
+          }
+        ]
+      },
+      "htmlSnippet": "Jan 17, 2013 <b>...</b> An intelligent transformer monitoring system being equipped with <b>artificial</b> <br>\n<b>intelligence</b> in order to process and interpret said second stream data&nbsp;...",
+      "title": "Patent WO2013008246A1 - An intelligent transformer monitoring ...",
+      "snippet": "Jan 17, 2013 ... An intelligent transformer monitoring system being equipped with artificial \nintelligence in order to process and interpret said second stream data\u00a0...",
+      "kind": "customsearch#result",
+      "formattedUrl": "www.google.com/patents/WO2013008246A1?cl=en",
+      "htmlFormattedUrl": "www.google.com/patents/WO2013008246A1?cl=en"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "searchInformation": {
+    "formattedTotalResults": "59",
+    "searchTime": 0.266012,
+    "formattedSearchTime": "0.27",
+    "totalResults": "59"
+  },
+  "context": {
+    "title": "Patent Analysis"
+  },
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "previousPage": [
+      {
+        "startIndex": 48,
+        "safe": "off",
+        "searchTerms": "artificial intelligence",
+        "cx": "000401063296163684824:-zjnv7z7vhu",
+        "inputEncoding": "utf8",
+        "title": "Google Custom Search - artificial intelligence",
+        "outputEncoding": "utf8",
+        "totalResults": "59",
+        "count": 10
+      }
+    ],
+    "request": [
+      {
+        "startIndex": 58,
+        "safe": "off",
+        "searchTerms": "artificial intelligence",
+        "cx": "000401063296163684824:-zjnv7z7vhu",
+        "inputEncoding": "utf8",
+        "title": "Google Custom Search - artificial intelligence",
+        "outputEncoding": "utf8",
+        "totalResults": "59",
+        "count": 2
+      }
+    ]
+  },
+  "items": [
+    {
+      "htmlTitle": "Patent US6602191 - Method and apparatus for health and disease <b>...</b>",
+      "link": "https://www.google.com/patents/US6602191",
+      "displayLink": "www.google.com",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "height": "96",
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS4tb4z2wDf7G-LCg4mEAa7pSEcQqkOLzuRmxGiLB_-bhV_-muquWwy7fs",
+            "width": "156"
+          }
+        ],
+        "book": [
+          {
+            "image": "https://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1",
+            "name": "Patent US6602191 - Method and apparatus for health and disease management combining patient data monitoring with wireless internet connectivity",
+            "url": "https://www.google.com/patents/US6602191?utm_source=gb-gplus-share",
+            "description": "A method and apparatus for a wireless health monitoring system for interactively monitoring a disease or health condition of a patient by connecting an internet-enabled wireless web device..."
+          }
+        ],
+        "metatags": [
+          {
+            "dc.title": "Method and apparatus for health and disease management combining patient data monitoring with wireless internet connectivity",
+            "dc.date": "2000-12-15",
+            "dc.relation": "US:20020019584:A1",
+            "dc.type": "Patent",
+            "dc.contributor": "Roger J. Quy",
+            "dc.description": "A method and apparatus for a wireless health monitoring system for interactively monitoring a disease or health condition of a patient by connecting an internet-enabled wireless web device (\u201cWWD\u201d) to a health monitoring device which may be a medical device or other health related device. The WWD may be connected to the health monitoring device directly by a wired connection to a generic input/output port of the WWD or wirelessly connected to the health monitoring device, such as via an infrared or radio frequency connection. The health related data is transmitted from the WWD to a server using standard internet protocols. The server calculates a response using a software program while providing for review bt a physician or health specialist. The user may interact with the server, for example, the server transmits a response to the WWD and the user may answer the response or provide other information."
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://patentimages.storage.googleapis.com/thumbnails/US6602191B2/US06602191-20030805-D00000.png"
+          }
+        ]
+      },
+      "htmlSnippet": "Aug 5, 2003 <b>...</b> The system of claim 52 , wherein the node is a node of a system selected from <br>\nthe group consisting of: an algorithm, an <b>artificial intelligence</b>&nbsp;...",
+      "title": "Patent US6602191 - Method and apparatus for health and disease ...",
+      "snippet": "Aug 5, 2003 ... The system of claim 52 , wherein the node is a node of a system selected from \nthe group consisting of: an algorithm, an artificial intelligence\u00a0...",
+      "kind": "customsearch#result",
+      "formattedUrl": "https://www.google.com/patents/US6602191",
+      "htmlFormattedUrl": "https://www.google.com/patents/US6602191"
+    },
+    {
+      "htmlTitle": "US 5566092",
+      "link": "https://www.google.com/patents/US5566092",
+      "displayLink": "www.google.com",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "height": "96",
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr9wHTetiejfEdzq3pdQgKXheJ8SJcJ16OSdREY18Bpdw4yWsQjGlA",
+            "width": "66"
+          }
+        ],
+        "book": [
+          {
+            "image": "https://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1",
+            "name": "Patent US5566092 - Machine fault diagnostics system and method",
+            "url": "https://www.google.com/patents/US5566092?utm_source=gb-gplus-share",
+            "description": "The invention provides a machine fault diagnostic system to help ensure effective equipment maintenance. The major technique used for fault diagnostics is a fault diagnostic network (FDN) which..."
+          }
+        ],
+        "metatags": [
+          {
+            "citation_patent_application_number": "US:08/176,482",
+            "citation_patent_number": "US:5566092",
+            "citation_reference": "Carpenter et al., \"Art 2: Self-Organization of Stable Category Recognition Codes for Analog Input Patterns,\" Applied Optics, vol. 26, No. 23, pp. 4919-4930, Dec. 1, 1987.",
+            "dc.title": "Machine fault diagnostics system and method",
+            "dc.date": "1993-12-30",
+            "dc.relation": "EP:0244483",
+            "title": "Patent US5566092 - Machine fault diagnostics system and method",
+            "dc.type": "Patent",
+            "dc.contributor": "Hsu-Pin Wang",
+            "dc.description": "The invention provides a machine fault diagnostic system to help ensure effective equipment maintenance. The major technique used for fault diagnostics is a fault diagnostic network (FDN) which is based on a modified ARTMAP neural network architecture. A hypothesis and test procedure based on fuzzy logic and physical bearing models is disclosed to operate with the FDN for detecting faults that cannot be recognized by the FDN and for analyzing complex machine conditions. The procedure described herein is able to provide accurate fault diagnosis for both one and multiple-fault conditions. Furthermore, a transputer-based parallel processing technique is used in which the FDN is implemented on a network of four T800-25 transputers.",
+            "og:url": "https://www.google.com/patents/US5566092"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://patentimages.storage.googleapis.com/thumbnails/pages/US5566092-18.png"
+          }
+        ]
+      },
+      "htmlSnippet": "Oct 15, 1996 <b>...</b> To overcome this problem, an <b>artificial intelligence</b> approach has been proposed. <br>\nIn the past few years, the application of <b>artificial intelligence</b>&nbsp;...",
+      "title": "US 5566092",
+      "snippet": "Oct 15, 1996 ... To overcome this problem, an artificial intelligence approach has been proposed. \nIn the past few years, the application of artificial intelligence\u00a0...",
+      "kind": "customsearch#result",
+      "formattedUrl": "https://www.google.com/patents/US5566092",
+      "htmlFormattedUrl": "https://www.google.com/patents/US5566092"
+    }
+  ]
+}

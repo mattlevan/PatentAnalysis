@@ -1,0 +1,540 @@
+{
+  "searchInformation": {
+    "formattedTotalResults": "4,030,000",
+    "searchTime": 0.302408,
+    "formattedSearchTime": "0.30",
+    "totalResults": "4030000"
+  },
+  "context": {
+    "title": "Patent Analysis"
+  },
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "nextPage": [
+      {
+        "startIndex": 48,
+        "safe": "off",
+        "searchTerms": "artificial intelligence",
+        "cx": "000401063296163684824:-zjnv7z7vhu",
+        "inputEncoding": "utf8",
+        "title": "Google Custom Search - artificial intelligence",
+        "outputEncoding": "utf8",
+        "totalResults": "4030000",
+        "count": 10
+      }
+    ],
+    "previousPage": [
+      {
+        "startIndex": 28,
+        "safe": "off",
+        "searchTerms": "artificial intelligence",
+        "cx": "000401063296163684824:-zjnv7z7vhu",
+        "inputEncoding": "utf8",
+        "title": "Google Custom Search - artificial intelligence",
+        "outputEncoding": "utf8",
+        "totalResults": "4030000",
+        "count": 10
+      }
+    ],
+    "request": [
+      {
+        "startIndex": 38,
+        "safe": "off",
+        "searchTerms": "artificial intelligence",
+        "cx": "000401063296163684824:-zjnv7z7vhu",
+        "inputEncoding": "utf8",
+        "title": "Google Custom Search - artificial intelligence",
+        "outputEncoding": "utf8",
+        "totalResults": "4030000",
+        "count": 10
+      }
+    ]
+  },
+  "items": [
+    {
+      "htmlTitle": "Patent US7558807 - Host website for digitally labeled websites and <b>...</b>",
+      "link": "http://www.google.com/patents/US7558807",
+      "displayLink": "www.google.com",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "height": "98",
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRhf79tG_FByiJw7CRDDy1Lqqca-CWG2RPE23yXC9zLiNk0QiLM85qXgQ",
+            "width": "64"
+          }
+        ],
+        "book": [
+          {
+            "image": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1",
+            "name": "Patent US7558807 - Host website for digitally labeled websites and method",
+            "url": "http://www.google.com/patents/US7558807?utm_source=gb-gplus-share",
+            "description": "There is described a host website and method for digitally labeling websites or subscribers with digital labels which represent characteristics and qualities of the website. The digital labels..."
+          }
+        ],
+        "metatags": [
+          {
+            "og:title": "Patent US7558807 - Host website for digitally labeled websites and method",
+            "dc.date": "2009-7-7",
+            "citation_patent_number": "US:7558807",
+            "dc.relation": "US:5778367",
+            "title": "Patent US7558807 - Host website for digitally labeled websites and method",
+            "og:type": "book",
+            "og:url": "http://www.google.com/patents/US7558807",
+            "citation_patent_application_number": "US:10/849,075",
+            "dc.title": "Host website for digitally labeled websites and method",
+            "og:image": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1",
+            "dc.type": "Patent",
+            "dc.contributor": "Emmanuel C. Gonzalez",
+            "dc.description": "There is described a host website and method for digitally labeling websites or subscribers with digital labels which represent characteristics and qualities of the website. The digital labels are stored on host websites, each of which is directed to a specific subject or activity. The host website can also provide digital labels for storage in other host websites. The host website is provided with artificial intelligence capabilities.",
+            "og:site_name": "Google Books"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "http://patentimages.storage.googleapis.com/thumbnails/US7558807B2/US07558807-20090707-D00003.png"
+          }
+        ]
+      },
+      "htmlSnippet": "Jul 7, 2009 <b>...</b> ... website can also provide digital labels for storage in other host websites. The <br>\nhost website is provided with <b>artificial intelligence</b> capabilities.",
+      "title": "Patent US7558807 - Host website for digitally labeled websites and ...",
+      "snippet": "Jul 7, 2009 ... ... website can also provide digital labels for storage in other host websites. The \nhost website is provided with artificial intelligence capabilities.",
+      "kind": "customsearch#result",
+      "formattedUrl": "www.google.com/patents/US7558807",
+      "htmlFormattedUrl": "www.google.com/patents/US7558807"
+    },
+    {
+      "htmlTitle": "Patent US5832466 - System and method for dynamic learning <b>...</b>",
+      "link": "http://www.google.com/patents/US5832466",
+      "displayLink": "www.google.com",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "height": "96",
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ5w9FQwfRpHm_I_b9BzUD9pp64hxV8-nUDcFMY0SqvLEC0x_hHcnEBCQ",
+            "width": "66"
+          }
+        ],
+        "book": [
+          {
+            "image": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1",
+            "name": "Patent US5832466 - System and method for dynamic learning control in genetically enhanced back-propagation neural networks",
+            "url": "http://www.google.com/patents/US5832466?utm_source=gb-gplus-share",
+            "description": "In the design and implementation of neural networks, training is determined by a series of architectural and parametric decisions. A method is disclosed that, using genetic algorithms, improves..."
+          }
+        ],
+        "metatags": [
+          {
+            "og:title": "Patent US5832466 - System and method for dynamic learning control in genetically enhanced back-propagation neural networks",
+            "dc.title": "System and method for dynamic learning control in genetically enhanced back-propagation neural networks",
+            "citation_patent_number": "US:5832466",
+            "dc.date": "1996-8-12",
+            "title": "Patent US5832466 - System and method for dynamic learning control in genetically enhanced back-propagation neural networks",
+            "og:type": "book",
+            "dc.relation": "US:5140530",
+            "og:url": "http://www.google.com/patents/US5832466",
+            "citation_patent_application_number": "US:08/694,414",
+            "citation_reference": "B. Choi and K. Bluff, \"Genetic Optimisation of Control Parameters of a Neural Network, \"1995 New Zealand Int'l Two-Stream Conference on Artificial Neural Networks, pp. 174-177, 1995.",
+            "og:image": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1",
+            "dc.type": "Patent",
+            "dc.contributor": "Oleg Feldgajer",
+            "dc.description": "In the design and implementation of neural networks, training is determined by a series of architectural and parametric decisions. A method is disclosed that, using genetic algorithms, improves the training characteristics of a neural network. The method begins with a population and iteratively modifies one or more parameters in each generation based on the network with the best training response in the previous generation.",
+            "og:site_name": "Google Books"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "http://patentimages.storage.googleapis.com/thumbnails/pages/US5832466-1.png"
+          }
+        ]
+      },
+      "htmlSnippet": "Nov 3, 1998 <b>...</b> a) forming a plurality of groups of individual artificial neural networks, each .... <br>\nTraditional <b>artificial intelligence</b> (AI) paradigms use dedicated&nbsp;...",
+      "title": "Patent US5832466 - System and method for dynamic learning ...",
+      "snippet": "Nov 3, 1998 ... a) forming a plurality of groups of individual artificial neural networks, each .... \nTraditional artificial intelligence (AI) paradigms use dedicated\u00a0...",
+      "kind": "customsearch#result",
+      "formattedUrl": "www.google.com/patents/US5832466",
+      "htmlFormattedUrl": "www.google.com/patents/US5832466"
+    },
+    {
+      "htmlTitle": "Patent US6272481 - Hospital-based integrated medical computer <b>...</b>",
+      "link": "https://www.google.com/patents/US6272481",
+      "displayLink": "www.google.com",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "height": "96",
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRDsoMuLYd8F3e8bUxlfH0YuGVcXOUjnyauqvakScc3gwEXlqW_NktnCQ",
+            "width": "108"
+          }
+        ],
+        "book": [
+          {
+            "image": "https://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1",
+            "name": "Patent US6272481 - Hospital-based integrated medical computer system for processing medical and patient information using specialized functional modules",
+            "url": "https://www.google.com/patents/US6272481?utm_source=gb-gplus-share",
+            "description": "A hospital-based integrated medical computer system for processing medical and patient information and for evolving medical knowledge, diagnoses and prognoses is disclosed. The system includes..."
+          }
+        ],
+        "metatags": [
+          {
+            "og:title": "Patent US6272481 - Hospital-based integrated medical computer system for processing medical and patient information using specialized functional modules",
+            "dc.title": "Hospital-based integrated medical computer system for processing medical and patient information using specialized functional modules",
+            "citation_patent_number": "US:6272481",
+            "dc.date": "1998-9-14",
+            "title": "Patent US6272481 - Hospital-based integrated medical computer system for processing medical and patient information using specialized functional modules",
+            "og:type": "book",
+            "dc.relation": "EP:0652528:A2",
+            "og:url": "https://www.google.com/patents/US6272481",
+            "citation_patent_application_number": "US:09/152,809",
+            "citation_reference": "Blum et al, \"Medical Informatics, Knowledge, and Expert Systems\", Proceedings of the 4th Annual IEEE Symposium on Computer-Based Medcial Systems, May 1991.*",
+            "og:image": "https://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1",
+            "dc.type": "Patent",
+            "dc.contributor": "Victor Bernard Lawrence",
+            "dc.description": "A hospital-based integrated medical computer system for processing medical and patient information and for evolving medical knowledge, diagnoses and prognoses is disclosed. The system includes a medical processor including a memory and a plurality of medical data banks connected thereto. The medical processor and the medical data banks are designed to work in tandem for executing a plurality of instructions and/or obtaining information. A plurality of separate processor hardware modules are operatively connected to the medical processor. The modules include a communication module, at least one switching module, an administrative module and a knowledge module. There is also hardware, firmware and software in the processor hardware modules to enable the modules to perform at least the following functions: for the communication module, to control data communication between the other modules, the memory and the medical processor, so that they effectively communicate with one another; for the switching module(s), ",
+            "og:site_name": "Google Books"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://patentimages.storage.googleapis.com/thumbnails/US6272481B1/US06272481-20010807-D00003.png"
+          }
+        ]
+      },
+      "htmlSnippet": "Aug 7, 2001 <b>...</b> The present inventive integrated medical system 1 then generates an <b>artificial</b> <br>\n<b>intelligence</b> based expected outcome in step 406; and verifies&nbsp;...",
+      "title": "Patent US6272481 - Hospital-based integrated medical computer ...",
+      "snippet": "Aug 7, 2001 ... The present inventive integrated medical system 1 then generates an artificial \nintelligence based expected outcome in step 406; and verifies\u00a0...",
+      "kind": "customsearch#result",
+      "formattedUrl": "https://www.google.com/patents/US6272481",
+      "htmlFormattedUrl": "https://www.google.com/patents/US6272481"
+    },
+    {
+      "htmlTitle": "Patent US5249261 - Failure history table for optimizing backtrack <b>...</b>",
+      "link": "http://www.google.com/patents/US5249261",
+      "displayLink": "www.google.com",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "height": "96",
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1qtfn5XiC6VrJcqWSXHeT9pg5Tp81WN7svoxpajb8iGl_eLtwbvy3",
+            "width": "66"
+          }
+        ],
+        "book": [
+          {
+            "image": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1",
+            "name": "Patent US5249261 - Failure history table for optimizing backtrack searches",
+            "url": "http://www.google.com/patents/US5249261?utm_source=gb-gplus-share",
+            "description": "Method and apparatus for improving an efficiency of solution of constraint-satisfaction type problems performed with a digital computer. A method includes the steps of creating a data structure..."
+          }
+        ],
+        "metatags": [
+          {
+            "og:title": "Patent US5249261 - Failure history table for optimizing backtrack searches",
+            "dc.title": "Failure history table for optimizing backtrack searches",
+            "citation_patent_number": "US:5249261",
+            "dc.date": "1992-10-26",
+            "title": "Patent US5249261 - Failure history table for optimizing backtrack searches",
+            "og:type": "book",
+            "dc.relation": "US:4862498",
+            "og:url": "http://www.google.com/patents/US5249261",
+            "citation_patent_application_number": "US:07/966,601",
+            "citation_reference": "\"Balanced Binary Tree (BBT) Subroutine Library\", for computer science course taken 1987.",
+            "og:image": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1",
+            "dc.type": "Patent",
+            "dc.contributor": "Kadathur S. Natarajan",
+            "dc.description": "Method and apparatus for improving an efficiency of solution of constraint-satisfaction type problems performed with a digital computer. A method includes the steps of creating a data structure having storage allocated for a plurality of entries, each of the entries having a plurality of attribute fields, including a Binding-- set attribute, a Potential-- savings attribute and an Accumulated-- savings attribute. The method further includes a step of inserting entries into the data structure in response to an occurrence of a failure path identified during a backtrack search of a search tree structure. The method also includes a step of examining the entries of the data structure during a backtrack search in order to avoid paths of the tree structure that are repetitively identified to be failure paths. The step of examining occurs before a forward move from a node of the search tree and determines if a value of a current set of bindings associated with a path from a root node to a current node is already prese",
+            "og:site_name": "Google Books"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "http://patentimages.storage.googleapis.com/thumbnails/pages/US5249261-4.png"
+          }
+        ]
+      },
+      "htmlSnippet": "Sep 28, 1993 <b>...</b> 8, Barr et al., The Handbook of <b>Artificial Intelligence</b> vol. ... Tree Search Efficiency <br>\nfor Constraint Satisfaction Problems&quot;, <b>Artificial Intelligence</b>, pp.",
+      "title": "Patent US5249261 - Failure history table for optimizing backtrack ...",
+      "snippet": "Sep 28, 1993 ... 8, Barr et al., The Handbook of Artificial Intelligence vol. ... Tree Search Efficiency \nfor Constraint Satisfaction Problems\", Artificial Intelligence, pp.",
+      "kind": "customsearch#result",
+      "formattedUrl": "www.google.com/patents/US5249261",
+      "htmlFormattedUrl": "www.google.com/patents/US5249261"
+    },
+    {
+      "htmlTitle": "Patent US20120302824 - Sex partner robot - Google Patents",
+      "link": "https://www.google.com/patents/US20120302824",
+      "displayLink": "www.google.com",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "height": "96",
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS7n-wPunDp_HxcDjZ_xqjnhx89RwjH2zKCi4ZQH0x3k3Taib9cU5bv",
+            "width": "74"
+          }
+        ],
+        "book": [
+          {
+            "image": "https://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1",
+            "name": "Patent US20120302824 - Sex partner robot",
+            "url": "https://www.google.com/patents/US20120302824?utm_source=gb-gplus-share",
+            "description": "The Robot sex partner will be sold in a metallic box from factory. The robot will have all the human dimensions, average length and placed in horizontal position, locked with a code key. The..."
+          }
+        ],
+        "metatags": [
+          {
+            "og:title": "Patent US20120302824 - Sex partner robot",
+            "dc.date": "2011-5-28",
+            "dc.relation": "US:20050283043:A1",
+            "title": "Patent US20120302824 - Sex partner robot",
+            "og:type": "book",
+            "citation_patent_publication_number": "US:20120302824:A1",
+            "og:url": "https://www.google.com/patents/US20120302824",
+            "citation_patent_application_number": "US:13/065,221",
+            "dc.title": "Sex partner robot",
+            "og:image": "https://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1",
+            "dc.type": "Patent",
+            "dc.contributor": "Rexhep Hasimi",
+            "dc.description": "The Robot sex partner will be sold in a metallic box from factory. The robot will have all the human dimensions, average length and placed in horizontal position, locked with a code key. The metal box has a security code that after open it let the robot get out and this can be activated by human voice. Then the owner can name the robot and register his name with a code by voice. Robot after being activated will give its hand to the human partner and it will walk out of the metal box. Owner with his voice will order robot to execute commands like: stand, sit, go to bed, bend over and all kind of movements, also will be able to establish a conversation and have sexual intercourse choosing the female or male personality of the robot This robot will help lonely people to get reed of depression due to solitude.",
+            "og:site_name": "Google Books"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://patentimages.storage.googleapis.com/thumbnails/pages/US20120302824-1.png"
+          }
+        ]
+      },
+      "htmlSnippet": "Nov 29, 2012 <b>...</b> The method of claim 3 , where the robot will posses <b>artificial intelligence</b> due to a <br>\nsuper fast computer processor located in the front of the head&nbsp;...",
+      "title": "Patent US20120302824 - Sex partner robot - Google Patents",
+      "snippet": "Nov 29, 2012 ... The method of claim 3 , where the robot will posses artificial intelligence due to a \nsuper fast computer processor located in the front of the head\u00a0...",
+      "kind": "customsearch#result",
+      "formattedUrl": "https://www.google.com/patents/US20120302824",
+      "htmlFormattedUrl": "https://www.google.com/patents/US20120302824"
+    },
+    {
+      "htmlTitle": "Patent US8548231 - Predicate logic based image grammars for <b>...</b>",
+      "link": "http://www.google.com/patents/US8548231",
+      "displayLink": "www.google.com",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "height": "96",
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ1HA74k9INI7Ez-Vjzfh3y5l8h0LNaF6Tv_kM1FmMUvtDCNfNUuh5Ffw",
+            "width": "100"
+          }
+        ],
+        "book": [
+          {
+            "image": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1",
+            "name": "Patent US8548231 - Predicate logic based image grammars for complex visual pattern recognition",
+            "url": "http://www.google.com/patents/US8548231?utm_source=gb-gplus-share",
+            "description": "First order predicate logics are provided, extended with a bilattice based uncertainty handling formalism, as a means of formally encoding pattern grammars, to parse a set of image features,..."
+          }
+        ],
+        "metatags": [
+          {
+            "dc.title": "Predicate logic based image grammars for complex visual pattern recognition",
+            "dc.date": "2010-3-16",
+            "citation_reference": "Automationanywhere, \"GUI Automation\", http://www.automationanywhere.com/solutions/gui-automation.htm?r=google&w=gui&kw=Gui%20Automation&gclid=COy43NXxi6ECFdV95Qod-XVsQq Apr. 7, 2010, 1 pp.",
+            "dc.type": "Patent",
+            "dc.contributor": "Vinay Damodar Shet",
+            "dc.description": "First order predicate logics are provided, extended with a bilattice based uncertainty handling formalism, as a means of formally encoding pattern grammars, to parse a set of image features, and detect the presence of different patterns of interest implemented on a processor. Information from different sources and uncertainties from detections, are integrated within the bilattice framework. Automated logical rule weight learning in the computer vision domain applies a rule weight optimization method which casts the instantiated inference tree as a knowledge-based neural network, to converge upon a set of rule weights that give optimal performance within the bilattice framework. Applications are in (a) detecting the presence of humans under partial occlusions and (b) detecting large complex man made structures in satellite imagery (c) detection of spatio-temporal human and vehicular activities in video and (c) parsing of Graphical User Interfaces."
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "http://patentimages.storage.googleapis.com/thumbnails/US8548231B2/US08548231-20131001-D00000.png"
+          }
+        ]
+      },
+      "htmlSnippet": "Oct 1, 2013 <b>...</b> Bilattices, algebraic structures introduced by \u201cGinsberg, M. L.: Multivalued logics: <br>\nUniform approach to inference in <b>artificial intelligence</b>.",
+      "title": "Patent US8548231 - Predicate logic based image grammars for ...",
+      "snippet": "Oct 1, 2013 ... Bilattices, algebraic structures introduced by \u201cGinsberg, M. L.: Multivalued logics: \nUniform approach to inference in artificial intelligence.",
+      "kind": "customsearch#result",
+      "formattedUrl": "www.google.com/patents/US8548231",
+      "htmlFormattedUrl": "www.google.com/patents/US8548231"
+    },
+    {
+      "htmlTitle": "Patent US8533002 - DAS predictive modeling and reporting function <b>...</b>",
+      "link": "https://www.google.com/patents/US8533002",
+      "displayLink": "www.google.com",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "height": "99",
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ4jyulhwjbjtkcKMjflTITMj0AFffqeqwM-zzHnv7X8fw1Wppgr0Ia",
+            "width": "63"
+          }
+        ],
+        "book": [
+          {
+            "image": "https://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1",
+            "name": "Patent US8533002 - DAS predictive modeling and reporting function",
+            "url": "https://www.google.com/patents/US8533002?utm_source=gb-gplus-share",
+            "description": "A system and method facilitating the management of current and prospective customers and customer information is provided. The invention includes an aggregation system adapted to provide management..."
+          }
+        ],
+        "metatags": [
+          {
+            "dc.title": "DAS predictive modeling and reporting function",
+            "dc.date": "2011-1-31",
+            "dc.relation": "US:20010011264:A1",
+            "dc.type": "Patent",
+            "dc.contributor": "Gregory J. Mesaros",
+            "dc.description": "A system and method facilitating the management of current and prospective customers and customer information is provided. The invention includes an aggregation system adapted to provide management and generation of current and prospective customers. The invention further provides management of current and prospective customer information. Additionally, the aggregation system provides for generating advertisements based at least in part upon market information. Finally, the present invention also includes a printstream aggregation method facilitating the printing of print orders."
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://patentimages.storage.googleapis.com/thumbnails/US8533002B2/US08533002-20130910-D00003.png"
+          }
+        ]
+      },
+      "htmlSnippet": "Sep 10, 2013 <b>...</b> The system of claim 1 , wherein the computer readable instructions are further <br>\nexecutable to implement a Bayesian-based <b>artificial intelligence</b>&nbsp;...",
+      "title": "Patent US8533002 - DAS predictive modeling and reporting function ...",
+      "snippet": "Sep 10, 2013 ... The system of claim 1 , wherein the computer readable instructions are further \nexecutable to implement a Bayesian-based artificial intelligence\u00a0...",
+      "kind": "customsearch#result",
+      "formattedUrl": "https://www.google.com/patents/US8533002",
+      "htmlFormattedUrl": "https://www.google.com/patents/US8533002"
+    },
+    {
+      "htmlTitle": "Patent WO2004059402A1 - Voice-controlled security system with <b>...</b>",
+      "link": "http://www.google.com/patents/WO2004059402A1?cl=en",
+      "displayLink": "www.google.com",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "height": "220",
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRe_1btZyYqPPAoF9eXhitr7E8CgdqKCBO5pDzN6gpFUCYhBywe_xC915k",
+            "width": "229"
+          }
+        ],
+        "book": [
+          {
+            "image": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1",
+            "name": "Patent WO2004059402A1 - Voice-controlled security system with proximity detection",
+            "url": "http://www.google.com/patents/WO2004059402A1?cl=en&utm_source=gb-gplus-share",
+            "description": "A control system (20) for permitting voice control of at least one device (10) by at least one user includes a transponder (22) which outputs an electronic RF signal (15) which includes an..."
+          }
+        ],
+        "metatags": [
+          {
+            "og:title": "Patent WO2004059402A1 - Voice-controlled security system with proximity detection",
+            "dc.date": "2002-12-16",
+            "dc.relation": "US:5199080",
+            "title": "Patent WO2004059402A1 - Voice-controlled security system with proximity detection",
+            "og:type": "book",
+            "citation_patent_publication_number": "WO:2004059402:A1",
+            "og:url": "http://www.google.com/patents/WO2004059402A1?cl=en",
+            "citation_patent_application_number": "WO:PCT/US2002/040114",
+            "dc.title": "Voice-controlled security system with proximity detection",
+            "og:image": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1",
+            "dc.type": "Patent",
+            "dc.contributor": "Richard B. Himmelstein",
+            "dc.description": "A control system (20) for permitting voice control of at least one device (10) by at least one user includes a transponder (22) which outputs an electronic RF signal (15) which includes an identification code; an electronic receiver (24) for receiving said electronic RF signal (15) and downconverting said received RF signal (15) to output the identification code; an external microphone (50) and an internal microphone (52) for receiving an audible signal spoken by a user; an accessile memory circuit (32) for storing at least one voiceprint and a command instruction for controlling at least one function of the device (10); and a microcomputer (30) for determining whether the identification code is valid and for analyzing the audible signal to determine whether it matches the voiceprint stored in memory circuit (32). The microcomputer (30) executes the command instruction to control the function of the device (10) if a match has been found.",
+            "og:site_name": "Google Books"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "http://patentimages.storage.googleapis.com/WO2004059402A1/imgf000008_0001.png"
+          }
+        ]
+      },
+      "htmlSnippet": "Jul 15, 2004 <b>...</b> The control system of claim 1, wherein said memory stores <b>artificial intelligence</b> <br>\ninstructions operable by said microprocessor, and whereby&nbsp;...",
+      "title": "Patent WO2004059402A1 - Voice-controlled security system with ...",
+      "snippet": "Jul 15, 2004 ... The control system of claim 1, wherein said memory stores artificial intelligence \ninstructions operable by said microprocessor, and whereby\u00a0...",
+      "kind": "customsearch#result",
+      "formattedUrl": "www.google.com/patents/WO2004059402A1?cl=en",
+      "htmlFormattedUrl": "www.google.com/patents/WO2004059402A1?cl=en"
+    },
+    {
+      "htmlTitle": "Patent US6584464 - Grammar template query system - Google <b>...</b>",
+      "link": "http://www.google.com/patents/US6584464",
+      "displayLink": "www.google.com",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "height": "96",
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRBwJtgMUNNEirKA6-5jbTzdO-LywCr0AKF1tNvCgdFFyulKqK4hFTm",
+            "width": "77"
+          }
+        ],
+        "book": [
+          {
+            "image": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1",
+            "name": "Patent US6584464 - Grammar template query system",
+            "url": "http://www.google.com/patents/US6584464?utm_source=gb-gplus-share",
+            "description": "An information server directs users of the information server to desired sources of information where the desired sources of information are determined, at least in part, based on user input...."
+          }
+        ],
+        "metatags": [
+          {
+            "dc.title": "Grammar template query system",
+            "dc.date": "1999-3-19",
+            "dc.relation": "EP:0196064:A2",
+            "dc.type": "Patent",
+            "dc.contributor": "David Warthen",
+            "dc.description": "An information server directs users of the information server to desired sources of information where the desired sources of information are determined, at least in part, based on user input. The information server includes a query input processor, a question processor and an answer processor. The query input processor is used for accepting an initial user query. The question processor processes the initial user query to identify a set of possible well-formed questions selected from the question database, where a well-formed question is a question in the database that is coupled to at least one answer reference. The answer reference is typically either an answer or a pointer to a possible location of an answer. In a specific embodiment, the information server is coupled to the Internet so that users can pose questions using a Web browser from any Internet-connected device. In some systems, the question processor includes a tokenizer for tokenizing the initial user query into a list of words, a parser for gene"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "http://patentimages.storage.googleapis.com/thumbnails/US6584464B1/US06584464-20030624-D00003.png"
+          }
+        ]
+      },
+      "htmlSnippet": "Jun 24, 2003 <b>...</b> Chapter 12 in <b>Artificial Intelligence</b> at MIT: Expanding Frontiers, ed. ... Conference <br>\nPaper, Fifth Conference on <b>Artificial Intelligence</b> for Space&nbsp;...",
+      "title": "Patent US6584464 - Grammar template query system - Google ...",
+      "snippet": "Jun 24, 2003 ... Chapter 12 in Artificial Intelligence at MIT: Expanding Frontiers, ed. ... Conference \nPaper, Fifth Conference on Artificial Intelligence for Space\u00a0...",
+      "kind": "customsearch#result",
+      "formattedUrl": "www.google.com/patents/US6584464",
+      "htmlFormattedUrl": "www.google.com/patents/US6584464"
+    },
+    {
+      "htmlTitle": "Patent US5774357 - Human factored interface incorporating <b>...</b>",
+      "link": "http://www.google.com/patents/US5774357",
+      "displayLink": "www.google.com",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "height": "96",
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT25-pjPLAx7GVhtQ3IyO1zoPbOXmgtelHX6l1TyLUrFhQl6-g1_gK7dA",
+            "width": "74"
+          }
+        ],
+        "book": [
+          {
+            "image": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1",
+            "name": "Patent US5774357 - Human factored interface incorporating adaptive pattern recognition based controller apparatus",
+            "url": "http://www.google.com/patents/US5774357?utm_source=gb-gplus-share",
+            "description": "A human interface device for a user, including a data transmission selector for selecting at least one of a plurality of simultaneously transmitted programs being responsive to an input; a..."
+          }
+        ],
+        "metatags": [
+          {
+            "dc.title": "Human factored interface incorporating adaptive pattern recognition based controller apparatus",
+            "dc.date": "1995-6-6",
+            "dc.relation": "US:14706121",
+            "dc.type": "Patent",
+            "dc.contributor": "Steven M. Hoffberg",
+            "dc.description": "A human interface device for a user, including a data transmission selector for selecting at least one of a plurality of simultaneously transmitted programs being responsive to an input; a program database containing information relating to at least one the plurality of programs, having an output; a graphical user interface for receiving user commands; and a controller for controlling the graphical user interface and the data transmission selector, the controller determining a user characteristic, receiving the output of the program database and presenting, based on the user characteristic and the program database, information relating to at least one of the plurality of programs on the graphic user interface in association with a command, the graphic user interface allowing the user to select the command and thereby authorize an operation in relation to the at least one of the plurality of programs. An objective user characteristic is detected based on one or more temporal-spatial user characteristics of the"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "http://patentimages.storage.googleapis.com/thumbnails/pages/US5774357-23.png"
+          }
+        ]
+      },
+      "htmlSnippet": "Duda, R. O., P. E. Hart, M. J. Nilsson, &quot;Subjective Bayesian methods for rule-<br>\nbased inference systems&quot;, Technical Note 124-<b>Artificial Intelligence</b> Center-SRI&nbsp;...",
+      "title": "Patent US5774357 - Human factored interface incorporating ...",
+      "snippet": "Duda, R. O., P. E. Hart, M. J. Nilsson, \"Subjective Bayesian methods for rule-\nbased inference systems\", Technical Note 124-Artificial Intelligence Center-SRI\u00a0...",
+      "kind": "customsearch#result",
+      "formattedUrl": "www.google.com/patents/US5774357",
+      "htmlFormattedUrl": "www.google.com/patents/US5774357"
+    }
+  ]
+}

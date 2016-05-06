@@ -1,0 +1,539 @@
+{
+  "searchInformation": {
+    "formattedTotalResults": "4,030,000",
+    "searchTime": 0.230005,
+    "formattedSearchTime": "0.23",
+    "totalResults": "4030000"
+  },
+  "context": {
+    "title": "Patent Analysis"
+  },
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "nextPage": [
+      {
+        "startIndex": 27,
+        "safe": "off",
+        "searchTerms": "artificial intelligence",
+        "cx": "000401063296163684824:-zjnv7z7vhu",
+        "inputEncoding": "utf8",
+        "title": "Google Custom Search - artificial intelligence",
+        "outputEncoding": "utf8",
+        "totalResults": "4030000",
+        "count": 10
+      }
+    ],
+    "previousPage": [
+      {
+        "startIndex": 7,
+        "safe": "off",
+        "searchTerms": "artificial intelligence",
+        "cx": "000401063296163684824:-zjnv7z7vhu",
+        "inputEncoding": "utf8",
+        "title": "Google Custom Search - artificial intelligence",
+        "outputEncoding": "utf8",
+        "totalResults": "4030000",
+        "count": 10
+      }
+    ],
+    "request": [
+      {
+        "startIndex": 17,
+        "safe": "off",
+        "searchTerms": "artificial intelligence",
+        "cx": "000401063296163684824:-zjnv7z7vhu",
+        "inputEncoding": "utf8",
+        "title": "Google Custom Search - artificial intelligence",
+        "outputEncoding": "utf8",
+        "totalResults": "4030000",
+        "count": 10
+      }
+    ]
+  },
+  "items": [
+    {
+      "htmlTitle": "Patent WO2006036929A1 - System for monitoring quality of water <b>...</b>",
+      "link": "http://www.google.com/patents/WO2006036929A1?cl=en",
+      "displayLink": "www.google.com",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "height": "162",
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNBfOfg6HowjScwy_micaHpX9uKajUP2Bb8ICg1L4pMXkKpPpBP-mE8Aqg",
+            "width": "312"
+          }
+        ],
+        "book": [
+          {
+            "image": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1",
+            "name": "Patent WO2006036929A1 - System for monitoring quality of water system",
+            "url": "http://www.google.com/patents/WO2006036929A1?cl=en&utm_source=gb-gplus-share",
+            "description": "A monitoring, detection and alarm system for water systems includes a plurality of sensing components for detecting the presence of target contaminants in water and for measuring the overall..."
+          }
+        ],
+        "metatags": [
+          {
+            "og:title": "Patent WO2006036929A1 - System for monitoring quality of water system",
+            "dc.title": "System for monitoring quality of water system",
+            "dc.date": "2005-9-27",
+            "dc.relation": "DE:29912126",
+            "title": "Patent WO2006036929A1 - System for monitoring quality of water system",
+            "og:type": "book",
+            "citation_patent_publication_number": "WO:2006036929:A1",
+            "og:url": "http://www.google.com/patents/WO2006036929A1?cl=en",
+            "citation_patent_application_number": "WO:PCT/US2005/034515",
+            "citation_reference": "PATENT ABSTRACTS OF JAPAN vol. 014, no. 115 (C-0696), 5 March 1990 (1990-03-05) & JP 01 315393 A (MEIDENSHA CORP), 20 December 1989 (1989-12-20)",
+            "og:image": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1",
+            "dc.type": "Patent",
+            "dc.contributor": "Terrance Madden",
+            "dc.description": "A monitoring, detection and alarm system for water systems includes a plurality of sensing components for detecting the presence of target contaminants in water and for measuring the overall quality of the water. The apparatus contains water sensing components, a database for storing sensor data and processors for data analysis using artificial intelligence. The apparatus provides control logic to take responsive action based on the results of the detection of the target contaminants. Responsive action includes, but is not limited to, generation of reports and alarm signals that are delivered in near real-time to users of the system.",
+            "og:site_name": "Google Books"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "http://patentimages.storage.googleapis.com/WO2006036929A1/imgf000016_0001.png"
+          }
+        ]
+      },
+      "htmlSnippet": "Apr 6, 2006 <b>...</b> The apparatus of claim 1, wherein said <b>artificial intelligence</b> system comprises an <br>\ninference engine. 14. The apparatus of claim 1 further&nbsp;...",
+      "title": "Patent WO2006036929A1 - System for monitoring quality of water ...",
+      "snippet": "Apr 6, 2006 ... The apparatus of claim 1, wherein said artificial intelligence system comprises an \ninference engine. 14. The apparatus of claim 1 further\u00a0...",
+      "kind": "customsearch#result",
+      "formattedUrl": "www.google.com/patents/WO2006036929A1?cl=en",
+      "htmlFormattedUrl": "www.google.com/patents/WO2006036929A1?cl=en"
+    },
+    {
+      "htmlTitle": "Patent CN203443592U - Vehicle-mounted <b>artificial intelligence</b> <b>...</b>",
+      "link": "http://www.google.com/patents/CN203443592U?cl=en",
+      "displayLink": "www.google.com",
+      "pagemap": {
+        "book": [
+          {
+            "image": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1",
+            "name": "Patent CN203443592U - Vehicle-mounted artificial intelligence system based on dynamic image identification",
+            "url": "http://www.google.com/patents/CN203443592U?cl=en&utm_source=gb-gplus-share",
+            "description": "The utility model relates to a vehicle-mounted artificial intelligence system based on dynamic image identification, which comprises an STM32 microprocessor, a liquid crystal display screen,..."
+          }
+        ],
+        "metatags": [
+          {
+            "og:title": "Patent CN203443592U - Vehicle-mounted artificial intelligence system based on dynamic image identification",
+            "dc.date": "2013-7-26",
+            "citation_patent_number": "CN:203443592",
+            "title": "Patent CN203443592U - Vehicle-mounted artificial intelligence system based on dynamic image identification",
+            "og:type": "book",
+            "og:url": "http://www.google.com/patents/CN203443592U?cl=en",
+            "citation_patent_application_number": "CN:201320450179",
+            "dc.title": "Vehicle-mounted artificial intelligence system based on dynamic image identification",
+            "og:image": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1",
+            "dc.type": "Patent",
+            "dc.contributor": "\u674e\u4f20\u950b",
+            "dc.description": "The utility model relates to a vehicle-mounted artificial intelligence system based on dynamic image identification, which comprises an STM32 microprocessor, a liquid crystal display screen, a motor driving module, a power supply module and a power supply management module which are carried on an intelligent vehicle, wherein power is supplied to the motor driving module by the power supply module; the output of the power supply module is converted through the power supply management module to supply power to each electricity utilization unit; the STM32 microprocessor is used as a central processor for controlling operation of the artificial intelligence system; an image acquisition module for acquiring image information is arranged at the headstock of the intelligent vehicle; a posture data acquisition module for acquiring the swing of the vehicle body of the intelligent vehicle is arranged at the middle part of the vehicle body of the intelligent vehicle; the STM32 microprocessor is respectively connected wi",
+            "og:site_name": "Google Books"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1"
+          }
+        ]
+      },
+      "htmlSnippet": "2014\u5e742\u670819\u65e5 <b>...</b> The utility model relates to a vehicle-mounted <b>artificial intelligence</b> system based <br>\non dynamic image identification, which comprises an STM32&nbsp;...",
+      "title": "Patent CN203443592U - Vehicle-mounted artificial intelligence ...",
+      "snippet": "2014\u5e742\u670819\u65e5 ... The utility model relates to a vehicle-mounted artificial intelligence system based \non dynamic image identification, which comprises an STM32\u00a0...",
+      "kind": "customsearch#result",
+      "formattedUrl": "www.google.com/patents/CN203443592U?cl=en",
+      "htmlFormattedUrl": "www.google.com/patents/CN203443592U?cl=en"
+    },
+    {
+      "htmlTitle": "Patent US20030018531 - Point-of-sale commercial transaction <b>...</b>",
+      "link": "https://www.google.com/patents/US20030018531",
+      "displayLink": "www.google.com",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "height": "96",
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRYBgh6xOHWEdA1WDoX9vbGovRTeQ0nnv6l9B1fR7jcZyp3dIUTYFxd_A",
+            "width": "80"
+          }
+        ],
+        "book": [
+          {
+            "image": "https://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1",
+            "name": "Patent US20030018531 - Point-of-sale commercial transaction processing system using artificial intelligence assisted by human intervention",
+            "url": "https://www.google.com/patents/US20030018531?utm_source=gb-gplus-share",
+            "description": "A point-of-sale commercial transaction processing system, particularly suitable for the fast food industry, is provided. The transaction processing system utilizes (1) a customer interaction..."
+          }
+        ],
+        "metatags": [
+          {
+            "og:title": "Patent US20030018531 - Point-of-sale commercial transaction processing system using artificial intelligence assisted by human intervention",
+            "dc.date": "2002-5-20",
+            "dc.relation": "US:20010032140:A1",
+            "title": "Patent US20030018531 - Point-of-sale commercial transaction processing system using artificial intelligence assisted by human intervention",
+            "og:type": "book",
+            "citation_patent_publication_number": "US:20030018531:A1",
+            "og:url": "https://www.google.com/patents/US20030018531",
+            "citation_patent_application_number": "US:10/151,593",
+            "dc.title": "Point-of-sale commercial transaction processing system using artificial intelligence assisted by human intervention",
+            "og:image": "https://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1",
+            "dc.type": "Patent",
+            "dc.contributor": "Kevin Mahaffy",
+            "dc.description": "A point-of-sale commercial transaction processing system, particularly suitable for the fast food industry, is provided. The transaction processing system utilizes (1) a customer interaction terminal (CIT) having a video display, an audio speaker, a microphone, and preferably a printer, (2) a computer system in communication with the customer interaction terminal (CIT) and running artificial intelligence routines to process or pre-process verbal requests provided into the microphone of the customer interaction terminal, and (3) a human-controlled response system in communication with the computer system which completes, corrects or verifies requests that cannot be satisfactorily completed by the artificial intelligence routines alone. The human-controlled response system is preferably in communication with the customer interaction terminal (CIT) and the customer via a high speed network connection.",
+            "og:site_name": "Google Books"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://patentimages.storage.googleapis.com/thumbnails/US20030018531A1/US20030018531A1-20030123-D00001.png"
+          }
+        ]
+      },
+      "htmlSnippet": "Jan 23, 2003 <b>...</b> b) a first computer system in communication with said first CIT and including an <br>\n<b>artificial intelligence</b> (AI) system which receives said audio&nbsp;...",
+      "title": "Patent US20030018531 - Point-of-sale commercial transaction ...",
+      "snippet": "Jan 23, 2003 ... b) a first computer system in communication with said first CIT and including an \nartificial intelligence (AI) system which receives said audio\u00a0...",
+      "kind": "customsearch#result",
+      "formattedUrl": "https://www.google.com/patents/US20030018531",
+      "htmlFormattedUrl": "https://www.google.com/patents/US20030018531"
+    },
+    {
+      "htmlTitle": "Patent US20150183498 - Personal Submersible Drone for Aquatic <b>...</b>",
+      "link": "http://www.google.com/patents/US20150183498",
+      "displayLink": "www.google.com",
+      "pagemap": {
+        "book": [
+          {
+            "image": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1",
+            "name": "Patent US20150183498 - Personal Submersible Drone for Aquatic Exploration",
+            "url": "http://www.google.com/patents/US20150183498?utm_source=gb-gplus-share",
+            "description": "The invention is directed toward an autonomous submersible aquatic drone, a system utilizing an autonomous submersible aquatic drone and a control unit, a control unit for controlling an autonomous..."
+          }
+        ],
+        "metatags": [
+          {
+            "og:title": "Patent US20150183498 - Personal Submersible Drone for Aquatic Exploration",
+            "dc.date": "2013-12-30",
+            "dc.relation": "US:20140111332:A1",
+            "title": "Patent US20150183498 - Personal Submersible Drone for Aquatic Exploration",
+            "og:type": "book",
+            "citation_patent_publication_number": "US:20150183498:A1",
+            "og:url": "http://www.google.com/patents/US20150183498",
+            "citation_patent_application_number": "US:14/143,713",
+            "dc.title": "Personal Submersible Drone for Aquatic Exploration",
+            "og:image": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1",
+            "dc.type": "Patent",
+            "dc.contributor": "Patrick Wardle",
+            "dc.description": "The invention is directed toward an autonomous submersible aquatic drone, a system utilizing an autonomous submersible aquatic drone and a control unit, a control unit for controlling an autonomous submersible aquatic drone, and a method for using the same. The autonomous submersible aquatic drone comprises a shaped housing, a propulsion system, one or more electromotors, a camera, a sonar unit, a wireless transponder, a battery, a microcontroller unit, and a control hardware unit. The control hardware unit is configured with artificial intelligence logic. The submersible drone surveys a predetermined area around a person engaged in a water sport for the presence of an underwater threat. When the aquatic drone detects the presence of an underwater threat the submersible drone sends a warning signal to a control unit worn by the person. The aquatic drone may also have a threat response unit to deter an attack on the person.",
+            "og:site_name": "Google Books"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1"
+          }
+        ]
+      },
+      "htmlSnippet": "Jul 2, 2015 <b>...</b> The control hardware unit is configured with <b>artificial intelligence</b> logic. The <br>\nsubmersible drone surveys a predetermined area around a person&nbsp;...",
+      "title": "Patent US20150183498 - Personal Submersible Drone for Aquatic ...",
+      "snippet": "Jul 2, 2015 ... The control hardware unit is configured with artificial intelligence logic. The \nsubmersible drone surveys a predetermined area around a person\u00a0...",
+      "kind": "customsearch#result",
+      "formattedUrl": "www.google.com/patents/US20150183498",
+      "htmlFormattedUrl": "www.google.com/patents/US20150183498"
+    },
+    {
+      "htmlTitle": "Patent CA2642458A1 - Tangible (upstream vertical chain) new <b>...</b>",
+      "link": "http://www.google.com/patents/CA2642458A1?cl=en",
+      "displayLink": "www.google.com",
+      "pagemap": {
+        "book": [
+          {
+            "image": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1",
+            "name": "Patent CA2642458A1 - Tangible (upstream vertical chain) new technologies based on new designs and new compositions that increase people's quality of life relevant to my companies 'lines' of business",
+            "url": "http://www.google.com/patents/CA2642458A1?cl=en&utm_source=gb-gplus-share",
+            "description": "Tangible (Upstream Vertical Chain) New Technologies That Contributes to Enhanced Quality of Life for People, By Making Things Work Better Can Possibly Automate (Robotics and/or Artificial Intellige..."
+          }
+        ],
+        "metatags": [
+          {
+            "og:title": "Patent CA2642458A1 - Tangible (upstream vertical chain) new technologies based on new designs and new compositions that increase people's quality of life relevant to my companies 'lines' of business",
+            "dc.date": "2008-11-28",
+            "title": "Patent CA2642458A1 - Tangible (upstream vertical chain) new technologies based on new designs and new compositions that increase people's quality of life relevant to my companies 'lines' of business",
+            "og:type": "book",
+            "citation_patent_publication_number": "CA:2642458:A1",
+            "og:url": "http://www.google.com/patents/CA2642458A1?cl=en",
+            "citation_patent_application_number": "CA:2642458",
+            "dc.title": "Tangible (upstream vertical chain) new technologies based on new designs and new compositions that increase people's quality of life relevant to my companies 'lines' of business",
+            "og:image": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1",
+            "dc.type": "Patent",
+            "dc.contributor": "Gerard Voon",
+            "dc.description": "Tangible (Upstream Vertical Chain) New Technologies That Contributes to Enhanced Quality of Life for People, By Making Things Work Better Can Possibly Automate (Robotics and/or Artificial Intelligence) and Control via Neural Links and/or Intuitive Virtual Reality and/or Multidimensional (any and all) Internet New Aspects as well as new MODELS METHODS AND TECHNIQUES for all manufacturing/construction/energy/tourism/Nation building (sports and/or stock market and /or unique services)/transport/water/farming/new sports/mag lev uses/hurricane structures/new batteries/new minature and flexible (circuit board/microchip/semiconductors)/airport/airlines/cruise-yacht products and services/platform aquaculture-salt water tolerant plants (bio fuel). All can be assisted, managed, controlled... by computer Algorithms/Neural Links/and Artificial Intelligence...",
+            "og:site_name": "Google Books"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1"
+          }
+        ]
+      },
+      "htmlSnippet": "May 28, 2010 <b>...</b> Claims. Claims New Technologies, New MODELS, New Techniques and Method <br>\nIn the below we use <b>Artificial Intelligence</b>/computer algorithm&nbsp;...",
+      "title": "Patent CA2642458A1 - Tangible (upstream vertical chain) new ...",
+      "snippet": "May 28, 2010 ... Claims. Claims New Technologies, New MODELS, New Techniques and Method \nIn the below we use Artificial Intelligence/computer algorithm\u00a0...",
+      "kind": "customsearch#result",
+      "formattedUrl": "www.google.com/patents/CA2642458A1?cl=en",
+      "htmlFormattedUrl": "www.google.com/patents/CA2642458A1?cl=en"
+    },
+    {
+      "htmlTitle": "Patent WO2008000046A1 - Social <b>intelligence</b> - Google Patents",
+      "link": "http://www.google.com/patents/WO2008000046A1?cl=en",
+      "displayLink": "www.google.com",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "height": "268",
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTAb9eEvfp_zxoM0AkJ7OZ1hSxkFyl10DLa5R62djR2iJebeiaibfi82vw",
+            "width": "188"
+          }
+        ],
+        "book": [
+          {
+            "image": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1",
+            "name": "Patent WO2008000046A1 - Social intelligence",
+            "url": "http://www.google.com/patents/WO2008000046A1?cl=en&utm_source=gb-gplus-share",
+            "description": "This invention concerns social intelligence, that is artificial intelligence about the behaviour of individuals or groups, and in particular a method for operating a computer interface to analyse..."
+          }
+        ],
+        "metatags": [
+          {
+            "og:title": "Patent WO2008000046A1 - Social intelligence",
+            "dc.date": "2007-6-29",
+            "dc.relation": "US:20020040310:A1",
+            "title": "Patent WO2008000046A1 - Social intelligence",
+            "og:type": "book",
+            "citation_patent_publication_number": "WO:2008000046:A1",
+            "og:url": "http://www.google.com/patents/WO2008000046A1?cl=en",
+            "citation_patent_application_number": "WO:PCT/AU2007/000916",
+            "dc.title": "Social intelligence",
+            "og:image": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1",
+            "dc.type": "Patent",
+            "dc.contributor": "Liesl Jane BEILBY",
+            "dc.description": "This invention concerns social intelligence, that is artificial intelligence about the behaviour of individuals or groups, and in particular a method for operating a computer interface to analyse unstructured online content generated by a user to produce a profile of a user. A method for operating a computer interface to analyse unstructured online content generated by a user to produce a profile of a user. The analysis is based on themes where each theme has a confidence rating for the user, and psychographic characteristics where each characteristic has a score for the user. The theme and character analysis is combined by weighting scores and ratings, to produce a combined profile that can be used for a predetermined purpose, such as searching, classification and identifying compatibility between users. In a further aspect the invention is a computer generated online interface.",
+            "og:site_name": "Google Books"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "http://patentimages.storage.googleapis.com/WO2008000046A1/imgf000030_0001.png"
+          }
+        ]
+      },
+      "htmlSnippet": "Jan 3, 2008 <b>...</b> This invention concerns social intelligence, that is <b>artificial intelligence</b> about the <br>\nbehaviour of individuals or groups, and in particular a method&nbsp;...",
+      "title": "Patent WO2008000046A1 - Social intelligence - Google Patents",
+      "snippet": "Jan 3, 2008 ... This invention concerns social intelligence, that is artificial intelligence about the \nbehaviour of individuals or groups, and in particular a method\u00a0...",
+      "kind": "customsearch#result",
+      "formattedUrl": "www.google.com/patents/WO2008000046A1?cl=en",
+      "htmlFormattedUrl": "www.google.com/patents/WO2008000046A1?cl=en"
+    },
+    {
+      "htmlTitle": "Account Options",
+      "link": "http://www.google.com/patents/CN104575008A?cl=en",
+      "displayLink": "www.google.com",
+      "pagemap": {
+        "book": [
+          {
+            "image": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1",
+            "name": "Patent CN104575008A - Traffic lamp control system based on artificial intelligence",
+            "url": "http://www.google.com/patents/CN104575008A?cl=en&utm_source=gb-gplus-share",
+            "description": "The invention discloses a traffic lamp control system based on artificial intelligence, and belongs to the technical field of automatic control. The traffic lamp control system comprises a..."
+          }
+        ],
+        "metatags": [
+          {
+            "og:title": "Patent CN104575008A - Traffic lamp control system based on artificial intelligence",
+            "dc.date": "2013-10-12",
+            "title": "Patent CN104575008A - Traffic lamp control system based on artificial intelligence",
+            "og:type": "book",
+            "citation_patent_publication_number": "CN:104575008:A",
+            "og:url": "http://www.google.com/patents/CN104575008A?cl=en",
+            "citation_patent_application_number": "CN:201310476639",
+            "dc.title": "Traffic lamp control system based on artificial intelligence",
+            "og:image": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1",
+            "dc.type": "Patent",
+            "dc.contributor": "\u79e6\u5b8f\u4f73",
+            "dc.description": "The invention discloses a traffic lamp control system based on artificial intelligence, and belongs to the technical field of automatic control. The traffic lamp control system comprises a controller (1), a transverse street red lamp (2), a transverse street yellow lamp (3), a transverse street green lamp (4), a longitudinal street red lamp (5), a longitudinal street yellow lamp (6), a longitudinal street green lamp (7), a transverse street sidewalk red lamp (8), a transverse street sidewalk green lamp (9), a longitudinal street sidewalk red lamp (10), a longitudinal street sidewalk green lamp (11), a data acquisition unit (12) and a data transmission unit (13). Compared with the prior art, the traffic lamp control device disclosed by the invention has the advantages of simple structure, convenience in control and repairing, high reliability and the like.",
+            "og:site_name": "Google Books"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1"
+          }
+        ]
+      },
+      "htmlSnippet": "2015\u5e744\u670829\u65e5 <b>...</b> The invention discloses a traffic lamp control system based on <b>artificial</b> <br>\n<b>intelligence</b>, and belongs to the technical field of automatic control.",
+      "title": "Account Options",
+      "snippet": "2015\u5e744\u670829\u65e5 ... The invention discloses a traffic lamp control system based on artificial \nintelligence, and belongs to the technical field of automatic control.",
+      "kind": "customsearch#result",
+      "formattedUrl": "www.google.com/patents/CN104575008A?cl=en",
+      "htmlFormattedUrl": "www.google.com/patents/CN104575008A?cl=en"
+    },
+    {
+      "htmlTitle": "Patent US8519249 - Music <b>intelligence</b> universe server - Google <b>...</b>",
+      "link": "http://www.google.com/patents/US8519249",
+      "displayLink": "www.google.com",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "height": "106",
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSvUGgTSCPl9FGSeeAa3Mrgt9MUzV_9dEKmwEdxkgij_I8nWNyErG5HIA",
+            "width": "55"
+          }
+        ],
+        "book": [
+          {
+            "image": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1",
+            "name": "Patent US8519249 - Music intelligence universe server",
+            "url": "http://www.google.com/patents/US8519249?utm_source=gb-gplus-share",
+            "description": "An artificial intelligence song/music recommendation system and method is provided that allows music shoppers to discover new music. The system and method accomplish these tasks by analyzing..."
+          }
+        ],
+        "metatags": [
+          {
+            "og:title": "Patent US8519249 - Music intelligence universe server",
+            "dc.date": "2011-11-8",
+            "citation_patent_number": "US:8519249",
+            "dc.relation": "US:5918223",
+            "title": "Patent US8519249 - Music intelligence universe server",
+            "og:type": "book",
+            "og:url": "http://www.google.com/patents/US8519249",
+            "citation_patent_application_number": "US:13/291,227",
+            "dc.title": "Music intelligence universe server",
+            "og:image": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1",
+            "dc.type": "Patent",
+            "dc.contributor": "Vicen\u00e7 Gaitan Alcalde",
+            "dc.description": "An artificial intelligence song/music recommendation system and method is provided that allows music shoppers to discover new music. The system and method accomplish these tasks by analyzing a database of music in order to identify key similarities between different pieces of music, and then recommends pieces of music to a user depending upon their music preferences.",
+            "og:site_name": "Google Books"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "http://patentimages.storage.googleapis.com/thumbnails/US8519249B2/US08519249-20130827-D00003.png"
+          }
+        ]
+      },
+      "htmlSnippet": "Aug 27, 2013 <b>...</b> An <b>artificial intelligence</b> song/music recommendation system and method is <br>\nprovided that allows music shoppers to discover new music.",
+      "title": "Patent US8519249 - Music intelligence universe server - Google ...",
+      "snippet": "Aug 27, 2013 ... An artificial intelligence song/music recommendation system and method is \nprovided that allows music shoppers to discover new music.",
+      "kind": "customsearch#result",
+      "formattedUrl": "www.google.com/patents/US8519249",
+      "htmlFormattedUrl": "www.google.com/patents/US8519249"
+    },
+    {
+      "htmlTitle": "Account Options",
+      "link": "http://www.google.com/patents/CN104254863A?cl=en",
+      "displayLink": "www.google.com",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "height": "246",
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2Y0Tl-JlT5r0I9cWBAlyJUd4yBniOjo7cemhkS8Y4b-Z90vc23JEJdj0-",
+            "width": "205"
+          }
+        ],
+        "book": [
+          {
+            "image": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1",
+            "name": "Patent CN104254863A - Enhancing diagnosis of disorder through artificial intelligence and mobile health technologies without compromising accuracy",
+            "url": "http://www.google.com/patents/CN104254863A?cl=en&utm_source=gb-gplus-share",
+            "description": "A computer system for generating a diagnostic tool by applying artificial intelligence to an instrument for diagnosis of a disorder, such as autism. For autism, the instrument can be a caregiver-di..."
+          }
+        ],
+        "metatags": [
+          {
+            "og:title": "Patent CN104254863A - Enhancing diagnosis of disorder through artificial intelligence and mobile health technologies without compromising accuracy",
+            "dc.date": "2012-10-23",
+            "title": "Patent CN104254863A - Enhancing diagnosis of disorder through artificial intelligence and mobile health technologies without compromising accuracy",
+            "og:type": "book",
+            "citation_patent_publication_number": "CN:104254863:A",
+            "og:url": "http://www.google.com/patents/CN104254863A?cl=en",
+            "citation_patent_application_number": "CN:201280064343",
+            "dc.title": "Enhancing diagnosis of disorder through artificial intelligence and mobile health technologies without compromising accuracy",
+            "og:image": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1",
+            "dc.type": "Patent",
+            "dc.contributor": "\u4e39\u5c3c\u65af\u00b7\u6c83\u5c14",
+            "dc.description": "A computer system for generating a diagnostic tool by applying artificial intelligence to an instrument for diagnosis of a disorder, such as autism. For autism, the instrument can be a caregiver-directed set of questions designed for an autism classification tool or an observation of the subject in a video, video conference, or in person and associated set of questions about behavior that are designed for use in a separate autism classification tool. The computer system can have one or more processors and memory to store one or more computer programs having instructions for generating a highly statistically accurate set of diagnostic items selected from the instrument, which are tested against a first test using a technique using artificial intelligence and a second test against an independent source. Also, a computer implemented method and a non-transitory computer-readable storage medium are disclosed.",
+            "og:site_name": "Google Books"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "http://patentimages.storage.googleapis.com/CN104254863A/CN104254863AD00451.png"
+          }
+        ]
+      },
+      "htmlSnippet": "2014\u5e7412\u670831\u65e5 <b>...</b> A computer system for generating a diagnostic tool by applying <b>artificial</b> <br>\n<b>intelligence</b> to an instrument for diagnosis of a disorder, such as autism.",
+      "title": "Account Options",
+      "snippet": "2014\u5e7412\u670831\u65e5 ... A computer system for generating a diagnostic tool by applying artificial \nintelligence to an instrument for diagnosis of a disorder, such as autism.",
+      "kind": "customsearch#result",
+      "formattedUrl": "www.google.com/patents/CN104254863A?cl=en",
+      "htmlFormattedUrl": "www.google.com/patents/CN104254863A?cl=en"
+    },
+    {
+      "htmlTitle": "Patent US4827418 - Expert system for air traffic control and <b>...</b>",
+      "link": "http://www.google.com/patents/US4827418",
+      "displayLink": "www.google.com",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "height": "96",
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQJ0dajtjNuCZC5bV23CMxkwUN_0dQ6vuXUOIKloWOyR2cCMsFoMxAm",
+            "width": "66"
+          }
+        ],
+        "book": [
+          {
+            "image": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1",
+            "name": "Patent US4827418 - Expert system for air traffic control and controller training",
+            "url": "http://www.google.com/patents/US4827418?utm_source=gb-gplus-share",
+            "description": "A expert system form of artificial intelligence for control of air traffic which may also be utilized for air traffic controller training. The expert system receives input data representing..."
+          }
+        ],
+        "metatags": [
+          {
+            "og:title": "Patent US4827418 - Expert system for air traffic control and controller training",
+            "dc.title": "Expert system for air traffic control and controller training",
+            "citation_patent_number": "US:4827418",
+            "dc.date": "1986-11-18",
+            "title": "Patent US4827418 - Expert system for air traffic control and controller training",
+            "og:type": "book",
+            "dc.relation": "US:3775767",
+            "og:url": "http://www.google.com/patents/US4827418",
+            "citation_patent_application_number": "US:06/931,867",
+            "citation_reference": "Andriole, \"Applications in Artificial Intelligence\", 9/1985, pp. 501-503.",
+            "og:image": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1",
+            "dc.type": "Patent",
+            "dc.contributor": "Arthur Gerstenfeld",
+            "dc.description": "A expert system form of artificial intelligence for control of air traffic which may also be utilized for air traffic controller training. The expert system receives input data representing the altitude and heading of all aircraft in the control area. The aircraft data is compared with the data of the other aircraft. Sequencing and local flow control is optimized and if a potential conflict arises between two aircraft, clearances are transmitted to the aircraft to resolve the conflict. The aircraft data is also compared with a knowledge base of air traffic control rules for the particular airport involved. An inference engine written in LISP (or another AI language) allows real time access to the knowledge base. The position and heading of each aircraft is monitored and controlled until turned over to the tower for final approach. The expert system may also be used for air traffic controller training and be used as a intelligent tutor. The air traffic controller trainee's clearances are input and compared to ",
+            "og:site_name": "Google Books"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "http://patentimages.storage.googleapis.com/thumbnails/pages/US4827418-4.png"
+          }
+        ]
+      },
+      "htmlSnippet": "May 2, 1989 <b>...</b> A expert system form of <b>artificial intelligence</b> for control of air traffic which may <br>\nalso be utilized for air traffic controller training. The expert system&nbsp;...",
+      "title": "Patent US4827418 - Expert system for air traffic control and ...",
+      "snippet": "May 2, 1989 ... A expert system form of artificial intelligence for control of air traffic which may \nalso be utilized for air traffic controller training. The expert system\u00a0...",
+      "kind": "customsearch#result",
+      "formattedUrl": "www.google.com/patents/US4827418",
+      "htmlFormattedUrl": "www.google.com/patents/US4827418"
+    }
+  ]
+}

@@ -1,0 +1,549 @@
+{
+  "searchInformation": {
+    "formattedTotalResults": "4,040,000",
+    "searchTime": 0.291539,
+    "formattedSearchTime": "0.29",
+    "totalResults": "4040000"
+  },
+  "context": {
+    "title": "Patent Analysis"
+  },
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "nextPage": [
+      {
+        "startIndex": 37,
+        "safe": "off",
+        "searchTerms": "artificial intelligence",
+        "cx": "000401063296163684824:-zjnv7z7vhu",
+        "inputEncoding": "utf8",
+        "title": "Google Custom Search - artificial intelligence",
+        "outputEncoding": "utf8",
+        "totalResults": "4040000",
+        "count": 10
+      }
+    ],
+    "previousPage": [
+      {
+        "startIndex": 17,
+        "safe": "off",
+        "searchTerms": "artificial intelligence",
+        "cx": "000401063296163684824:-zjnv7z7vhu",
+        "inputEncoding": "utf8",
+        "title": "Google Custom Search - artificial intelligence",
+        "outputEncoding": "utf8",
+        "totalResults": "4040000",
+        "count": 10
+      }
+    ],
+    "request": [
+      {
+        "startIndex": 27,
+        "safe": "off",
+        "searchTerms": "artificial intelligence",
+        "cx": "000401063296163684824:-zjnv7z7vhu",
+        "inputEncoding": "utf8",
+        "title": "Google Custom Search - artificial intelligence",
+        "outputEncoding": "utf8",
+        "totalResults": "4040000",
+        "count": 10
+      }
+    ]
+  },
+  "items": [
+    {
+      "htmlTitle": "Patent US5349644 - Distributed <b>intelligence</b> engineering casualty <b>...</b>",
+      "link": "http://www.google.com/patents/US5349644",
+      "displayLink": "www.google.com",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "height": "96",
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRRjOMCtVIDD1cI0PxmT33CQCSfih-P5sCJrqWYYzItmtmERwnm-Wqj",
+            "width": "66"
+          }
+        ],
+        "book": [
+          {
+            "image": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1",
+            "name": "Patent US5349644 - Distributed intelligence engineering casualty and damage control management system using an AC power line carrier-current lan",
+            "url": "http://www.google.com/patents/US5349644?utm_source=gb-gplus-share",
+            "description": "A distributed artificial intelligence data acquisition and equipment control system forms a local area network (LAN) over the AC power lines of a vessel for communicating shipboard engineering..."
+          }
+        ],
+        "metatags": [
+          {
+            "dc.title": "Distributed intelligence engineering casualty and damage control management system using an AC power line carrier-current lan",
+            "dc.date": "1993-12-1",
+            "dc.relation": "US:3909821",
+            "dc.type": "Patent",
+            "dc.contributor": "John Massey",
+            "dc.description": "A distributed artificial intelligence data acquisition and equipment control system forms a local area network (LAN) over the AC power lines of a vessel for communicating shipboard engineering casualty and damage control information. Each node in the LAN includes a power line carrier current (PLCC) transceiver, a slave processing unit for interfacing with local sensors or equipment and a master processing unit for controlling the formation, transmission and reception of offset-quadrature-phase-shift-keyed (OQPSK) LAN messages. Nodes in the LAN are strategically positioned at various locations throughout the ship and are configured to function either as a Terminal Unit or as a Data & Control Unit. Terminal Units are equipped with a touch screen display and an intelligent controller that provides a user-friendly interactive operator interface through a series of display screen prompts and includes a data base of ship casualty and damage control information stored in a local non-volatile random access memory. Th"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "http://patentimages.storage.googleapis.com/thumbnails/pages/US5349644-6.png"
+          }
+        ]
+      },
+      "htmlSnippet": "Sep 20, 1994 <b>...</b> A distributed <b>artificial intelligence</b> data acquisition and equipment control system <br>\nforms a local area network (LAN) over the AC power lines of a&nbsp;...",
+      "title": "Patent US5349644 - Distributed intelligence engineering casualty ...",
+      "snippet": "Sep 20, 1994 ... A distributed artificial intelligence data acquisition and equipment control system \nforms a local area network (LAN) over the AC power lines of a\u00a0...",
+      "kind": "customsearch#result",
+      "formattedUrl": "www.google.com/patents/US5349644",
+      "htmlFormattedUrl": "www.google.com/patents/US5349644"
+    },
+    {
+      "htmlTitle": "Patent US20060230008 - <b>Artificial</b> neural network guessing method <b>...</b>",
+      "link": "http://www.google.com/patents/US20060230008",
+      "displayLink": "www.google.com",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "height": "96",
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR-kuiYuiVVmkcMPbPNG6m_HwQDTMTiCH7scDCEXKe94BquOYvYbpdaRA",
+            "width": "70"
+          }
+        ],
+        "book": [
+          {
+            "image": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1",
+            "name": "Patent US20060230008 - Artificial neural network guessing method and game",
+            "url": "http://www.google.com/patents/US20060230008?utm_source=gb-gplus-share",
+            "description": "A method for guessing, in an electronic game, an object that a user is thinking of, from a set of target objects, after asking the user at least one question, the method utilizing a neural..."
+          }
+        ],
+        "metatags": [
+          {
+            "og:title": "Patent US20060230008 - Artificial neural network guessing method and game",
+            "dc.date": "2005-4-8",
+            "dc.relation": "US:4912654",
+            "title": "Patent US20060230008 - Artificial neural network guessing method and game",
+            "og:type": "book",
+            "citation_patent_publication_number": "US:20060230008:A1",
+            "og:url": "http://www.google.com/patents/US20060230008",
+            "citation_patent_application_number": "US:11/102,105",
+            "dc.title": "Artificial neural network guessing method and game",
+            "og:image": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1",
+            "dc.type": "Patent",
+            "dc.contributor": "Robin Burgener",
+            "dc.description": "A method for guessing, in an electronic game, an object that a user is thinking of, from a set of target objects, after asking the user at least one question, the method utilizing a neural network structured in a target objects-by-questions matrix format, wherein each cell of the matrix defines an input-output connection weight, and the neural network can be utilized in a first mode, whereby answers to asked questions are input nodes and the target objects are output nodes, and in a second mode, whereby the target objects are input nodes and the questions are output nodes, the method comprising the steps of ranking the target objects by utilizing the neural network in the first mode; ranking the questions by utilizing the neural network in the second mode; and providing a guess in accordance with the ranking of the target objects.",
+            "og:site_name": "Google Books"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "http://patentimages.storage.googleapis.com/thumbnails/US20060230008A1/US20060230008A1-20061012-D00003.png"
+          }
+        ]
+      },
+      "htmlSnippet": "Oct 12, 2006 <b>...</b> The present invention relates in general to <b>artificial intelligence</b> games and in <br>\nparticular to a new and useful method of using artificial neural&nbsp;...",
+      "title": "Patent US20060230008 - Artificial neural network guessing method ...",
+      "snippet": "Oct 12, 2006 ... The present invention relates in general to artificial intelligence games and in \nparticular to a new and useful method of using artificial neural\u00a0...",
+      "kind": "customsearch#result",
+      "formattedUrl": "www.google.com/patents/US20060230008",
+      "htmlFormattedUrl": "www.google.com/patents/US20060230008"
+    },
+    {
+      "htmlTitle": "Patent US20130297537 - Method and System for creating Dynamic <b>...</b>",
+      "link": "http://www.google.com/patents/US20130297537",
+      "displayLink": "www.google.com",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "height": "96",
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0bNcP2boPJ-L2e6EY-SPICX0i55Rl_3kvzmvEn_KMbOpEfvC46T6b",
+            "width": "74"
+          }
+        ],
+        "book": [
+          {
+            "image": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1",
+            "name": "Patent US20130297537 - Method and System for creating Dynamic Neural Function Libraries",
+            "url": "http://www.google.com/patents/US20130297537?utm_source=gb-gplus-share",
+            "description": "The current invention comprises a function library and relates to Artificial Intelligence systems and devices. Within a Dynamic Neural Network (the \u201cIntelligent Target Device\u201d) training..."
+          }
+        ],
+        "metatags": [
+          {
+            "og:title": "Patent US20130297537 - Method and System for creating Dynamic Neural Function Libraries",
+            "dc.title": "Method and System for creating Dynamic Neural Function Libraries",
+            "dc.date": "2012-5-2",
+            "dc.relation": "US:20030097230:A1",
+            "title": "Patent US20130297537 - Method and System for creating Dynamic Neural Function Libraries",
+            "og:type": "book",
+            "citation_patent_publication_number": "US:20130297537:A1",
+            "og:url": "http://www.google.com/patents/US20130297537",
+            "citation_patent_application_number": "US:13/461,800",
+            "citation_reference": "Demuth et al, \"Neural Network Toolbox 6 User's Guide\", published online March 2009",
+            "og:image": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1",
+            "dc.type": "Patent",
+            "dc.contributor": "Peter AJ. van der Made",
+            "dc.description": "The current invention comprises a function library and relates to Artificial Intelligence systems and devices. Within a Dynamic Neural Network (the \u201cIntelligent Target Device\u201d) training model values are autonomously generated in during learning and stored in synaptic registers. One instance of an Intelligent Target Device is the \u201cAutonomous Learning Dynamic Artificial Neural Computing Device and Brain Inspired System\u201d, described in patent application number 20100076916 and referenced in whole in this text. A collection of values that has been generated in synaptic registers comprises a training model, which is an abstract model of a task or a process that has been learned by the intelligent target device. A means is provided within the Intelligent Target Device to copy the training model to computer memory. A collection of such training model sets are stored within a function library on a computer storage facility, such as a disk, CD, DVD or other means.",
+            "og:site_name": "Google Books"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "http://patentimages.storage.googleapis.com/thumbnails/US20130297537A1/US20130297537A1-20131107-D00001.png"
+          }
+        ]
+      },
+      "htmlSnippet": "Nov 7, 2013 <b>...</b> The current invention comprises a function library and relates to <b>Artificial</b> <br>\n<b>Intelligence</b> systems and devices. Within a Dynamic Neural Network&nbsp;...",
+      "title": "Patent US20130297537 - Method and System for creating Dynamic ...",
+      "snippet": "Nov 7, 2013 ... The current invention comprises a function library and relates to Artificial \nIntelligence systems and devices. Within a Dynamic Neural Network\u00a0...",
+      "kind": "customsearch#result",
+      "formattedUrl": "www.google.com/patents/US20130297537",
+      "htmlFormattedUrl": "www.google.com/patents/US20130297537"
+    },
+    {
+      "htmlTitle": "Patent CN202383509U - Trolley monitoring device with <b>artificial</b> <b>...</b>",
+      "link": "http://www.google.com/patents/CN202383509U?cl=en",
+      "displayLink": "www.google.com",
+      "pagemap": {
+        "book": [
+          {
+            "image": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1",
+            "name": "Patent CN202383509U - Trolley monitoring device with artificial intelligence function",
+            "url": "http://www.google.com/patents/CN202383509U?cl=en&utm_source=gb-gplus-share",
+            "description": "The utility model discloses a trolley monitoring device with an artificial intelligence function. The device comprises a most important central processing unit which is connected with a power..."
+          }
+        ],
+        "metatags": [
+          {
+            "og:title": "Patent CN202383509U - Trolley monitoring device with artificial intelligence function",
+            "dc.date": "2011-12-31",
+            "citation_patent_number": "CN:202383509",
+            "title": "Patent CN202383509U - Trolley monitoring device with artificial intelligence function",
+            "og:type": "book",
+            "og:url": "http://www.google.com/patents/CN202383509U?cl=en",
+            "citation_patent_application_number": "CN:201120568969",
+            "dc.title": "Trolley monitoring device with artificial intelligence function",
+            "og:image": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1",
+            "dc.type": "Patent",
+            "dc.contributor": "\u8bb8\u81fb",
+            "dc.description": "The utility model discloses a trolley monitoring device with an artificial intelligence function. The device comprises a most important central processing unit which is connected with a power manager and two controllers, namely a main controller and an auxiliary controller; the main controller is connected with an acquisition device; the acquisition device is also connected with power equipment; the auxiliary controller is connected with a monitor; the monitor is also connected with a power supply; temperature acquisition equipment, sound acquisition equipment and image acquisition equipment are mounted in the controller respectively; and obstacle avoidance monitoring equipment, battery monitoring equipment and driving monitoring equipment are mounted in the auxiliary controller respectively. The device disclosed by the utility model is easy to control and powerful; and a system has strong automatic reconfiguration capacity.",
+            "og:site_name": "Google Books"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1"
+          }
+        ]
+      },
+      "htmlSnippet": "2012\u5e748\u670815\u65e5 <b>...</b> The utility model discloses a trolley monitoring device with an <b>artificial</b> <br>\n<b>intelligence</b> function. The device comprises a most important central&nbsp;...",
+      "title": "Patent CN202383509U - Trolley monitoring device with artificial ...",
+      "snippet": "2012\u5e748\u670815\u65e5 ... The utility model discloses a trolley monitoring device with an artificial \nintelligence function. The device comprises a most important central\u00a0...",
+      "kind": "customsearch#result",
+      "formattedUrl": "www.google.com/patents/CN202383509U?cl=en",
+      "htmlFormattedUrl": "www.google.com/patents/CN202383509U?cl=en"
+    },
+    {
+      "htmlTitle": "Patent US5499030 - Expert system constant false alarm rate (CFAR <b>...</b>",
+      "link": "http://www.google.com/patents/US5499030",
+      "displayLink": "www.google.com",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "height": "96",
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRqUZboVLTWwB1vREACR3mFSeOA_29XwOE-TBSt324WAg_-YZ80w7G57Q",
+            "width": "66"
+          }
+        ],
+        "book": [
+          {
+            "image": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1",
+            "name": "Patent US5499030 - Expert system constant false alarm rate (CFAR) processor",
+            "url": "http://www.google.com/patents/US5499030?utm_source=gb-gplus-share",
+            "description": "An artificial intelligence system improves radar signal processor performance by increasing target probability of detection and reducing probability of false alarms in a severe radar clutter..."
+          }
+        ],
+        "metatags": [
+          {
+            "og:title": "Patent US5499030 - Expert system constant false alarm rate (CFAR) processor",
+            "dc.title": "Expert system constant false alarm rate (CFAR) processor",
+            "citation_patent_number": "US:5499030",
+            "dc.date": "1994-3-18",
+            "title": "Patent US5499030 - Expert system constant false alarm rate (CFAR) processor",
+            "og:type": "book",
+            "dc.relation": "US:3995270",
+            "og:url": "http://www.google.com/patents/US5499030",
+            "citation_patent_application_number": "US:08/215,073",
+            "citation_reference": "Antonik et al, \"Intelligent Use of CFAR Algorithms\", AD-A267 755/7/XAB, Kaman Sciences Corp., Utica, N.Y. May 1993.",
+            "og:image": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1",
+            "dc.type": "Patent",
+            "dc.contributor": "Michael C. Wicks",
+            "dc.description": "An artificial intelligence system improves radar signal processor performance by increasing target probability of detection and reducing probability of false alarms in a severe radar clutter environment. This utilizes advances in artificial intelligence and expert systems technology for the development of data analysis and information (signal) processors used in conjunction with conventional (deterministic) data analysis algorithms to combine radar measurement data (including observed target tracks and radar clutter returns from terrain, sea, atmospheric effects, etc.) with topographic data, weather information, and similar information to formulate optimum filter coefficients and threshold tests. Present fielded radar systems use one CFAR algorithm for signal processing over the entire surveillance volume. However, radar experiments have shown that certain CFAR algorithms outperform others in different environments. The system intelligently senses the clutter environment, and selects and combines the most app",
+            "og:site_name": "Google Books"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "http://patentimages.storage.googleapis.com/thumbnails/pages/US5499030-4.png"
+          }
+        ]
+      },
+      "htmlSnippet": "Mar 12, 1996 <b>...</b> An <b>artificial intelligence</b> system improves radar signal processor performance by <br>\nincreasing target probability of detection and reducing&nbsp;...",
+      "title": "Patent US5499030 - Expert system constant false alarm rate (CFAR ...",
+      "snippet": "Mar 12, 1996 ... An artificial intelligence system improves radar signal processor performance by \nincreasing target probability of detection and reducing\u00a0...",
+      "kind": "customsearch#result",
+      "formattedUrl": "www.google.com/patents/US5499030",
+      "htmlFormattedUrl": "www.google.com/patents/US5499030"
+    },
+    {
+      "htmlTitle": "Account Options",
+      "link": "http://www.google.com/patents/WO2013032055A1?cl=en",
+      "displayLink": "www.google.com",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "height": "96",
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR8BQwI9J14-EowvebrSlkN4IaHxolUwnDitytO1_NYW07rDlU3yDnZZQ",
+            "width": "111"
+          }
+        ],
+        "book": [
+          {
+            "image": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1",
+            "name": "Patent WO2013032055A1 - Packet-based game npc server, method for providing artificial intelligence npc, and game system using same",
+            "url": "http://www.google.com/patents/WO2013032055A1?cl=en&utm_source=gb-gplus-share",
+            "description": "The present invention relates to an online game server-test integration device for testing a load through an online game server, and comprises: a server module for providing an online service..."
+          }
+        ],
+        "metatags": [
+          {
+            "og:title": "Patent WO2013032055A1 - Packet-based game npc server, method for providing artificial intelligence npc, and game system using same",
+            "dc.date": "2011-9-16",
+            "dc.relation": "KR:20100102903",
+            "title": "Patent WO2013032055A1 - Packet-based game npc server, method for providing artificial intelligence npc, and game system using same",
+            "og:type": "book",
+            "citation_patent_publication_number": "WO:2013032055:A1",
+            "og:url": "http://www.google.com/patents/WO2013032055A1?cl=en",
+            "citation_patent_application_number": "WO:PCT/KR2011/006896",
+            "dc.title": "Packet-based game npc server, method for providing artificial intelligence npc, and game system using same",
+            "og:image": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1",
+            "dc.type": "Patent",
+            "dc.contributor": "Kang Min Sohn",
+            "dc.description": "The present invention relates to an online game server-test integration device for testing a load through an online game server, and comprises: a server module for providing an online service to a client through a network; a header file for defining a packet protocol and sending/receiving data between the server module and the client; a packet designer tool for creating a packet definition file for sending/receiving data between the server module and a server load test portion; a meta file processing portion for saving the packet definition file that is created by the packet designer tool; and the server load test portion for creating a scenario and testing the load on the server module by using the packet definition file that is defined, and testing the load on the server load.",
+            "og:site_name": "Google Books"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "http://patentimages.storage.googleapis.com/thumbnails/WO2013032055A1/PCTKR2011006896-appb-D000004.png"
+          }
+        ]
+      },
+      "htmlSnippet": "2013\ub144 3\uc6d4 7\uc77c <b>...</b> Packet-based game npc server, method for providing <b>artificial intelligence</b> npc, <br>\nand game system using same. WO 2013032055 A1. Abstract.",
+      "title": "Account Options",
+      "snippet": "2013\ub144 3\uc6d4 7\uc77c ... Packet-based game npc server, method for providing artificial intelligence npc, \nand game system using same. WO 2013032055 A1. Abstract.",
+      "kind": "customsearch#result",
+      "formattedUrl": "www.google.com/patents/WO2013032055A1?cl=en",
+      "htmlFormattedUrl": "www.google.com/patents/WO2013032055A1?cl=en"
+    },
+    {
+      "htmlTitle": "Patent WO2002049900A1 - Vehicle dynamics prediction system and <b>...</b>",
+      "link": "http://www.google.com/patents/WO2002049900A1?cl=en",
+      "displayLink": "www.google.com",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "height": "272",
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRgi7OMXAaY4e8SHBKNUWyKcC-701Sx91bfmjL_hGLbechWfQqyFJVBaR8",
+            "width": "186"
+          }
+        ],
+        "book": [
+          {
+            "image": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1",
+            "name": "Patent WO2002049900A1 - Vehicle dynamics prediction system and method",
+            "url": "http://www.google.com/patents/WO2002049900A1?cl=en&utm_source=gb-gplus-share",
+            "description": "A vehicle dynamics prediction system for providing prediction of vehicle velocity for a predetermined future time period. The predictions utilise future vehicle control setting anticipated..."
+          }
+        ],
+        "metatags": [
+          {
+            "og:title": "Patent WO2002049900A1 - Vehicle dynamics prediction system and method",
+            "dc.title": "Vehicle dynamics prediction system and method",
+            "dc.date": "2001-12-20",
+            "dc.relation": "US:5239472",
+            "title": "Patent WO2002049900A1 - Vehicle dynamics prediction system and method",
+            "og:type": "book",
+            "citation_patent_publication_number": "WO:2002049900:A1",
+            "og:url": "http://www.google.com/patents/WO2002049900A1?cl=en",
+            "citation_patent_application_number": "WO:PCT/AU2001/001645",
+            "citation_reference": "HANNAH ET AL.: 'Approximating rail locomotive dynamics using the SOCM network' IJCNN'99 vol. 3, 1999, pages 1934 - 1938",
+            "og:image": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1",
+            "dc.type": "Patent",
+            "dc.contributor": "Colin Robert Cole",
+            "dc.description": "A vehicle dynamics prediction system for providing prediction of vehicle velocity for a predetermined future time period. The predictions utilise future vehicle control setting anticipated for the time period. An artificial intelligence database coupled to a processor that utilises weighted values for neural network models representing dynamic performance of the vehicle forms part of the vehicle dynamics prediction system.",
+            "og:site_name": "Google Books"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "http://patentimages.storage.googleapis.com/WO2002049900A1/imgf000017_0001.png"
+          }
+        ]
+      },
+      "htmlSnippet": "Jun 27, 2002 <b>...</b> An <b>artificial intelligence</b> database coupled to a processor that utilises weighted <br>\nvalues for neural network models representing dynamic&nbsp;...",
+      "title": "Patent WO2002049900A1 - Vehicle dynamics prediction system and ...",
+      "snippet": "Jun 27, 2002 ... An artificial intelligence database coupled to a processor that utilises weighted \nvalues for neural network models representing dynamic\u00a0...",
+      "kind": "customsearch#result",
+      "formattedUrl": "www.google.com/patents/WO2002049900A1?cl=en",
+      "htmlFormattedUrl": "www.google.com/patents/WO2002049900A1?cl=en"
+    },
+    {
+      "htmlTitle": "Patent US6931387 - Method and system for ergonomic assessment <b>...</b>",
+      "link": "http://www.google.com/patents/US6931387",
+      "displayLink": "www.google.com",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "height": "96",
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTXozxB9CcfGH_hkRhO56HTH9EwAZMtsrorg-2yhv9-SlRti6s9zY4c_g",
+            "width": "68"
+          }
+        ],
+        "book": [
+          {
+            "image": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1",
+            "name": "Patent US6931387 - Method and system for ergonomic assessment and reduction of workplace injuries",
+            "url": "http://www.google.com/patents/US6931387?utm_source=gb-gplus-share",
+            "description": "A method and system for facilitating resolution of engineering and business issues is provided which comprises an issue component for identifying the issues to be resolved, an inquiry component..."
+          }
+        ],
+        "metatags": [
+          {
+            "og:title": "Patent US6931387 - Method and system for ergonomic assessment and reduction of workplace injuries",
+            "dc.title": "Method and system for ergonomic assessment and reduction of workplace injuries",
+            "citation_patent_number": "US:6931387",
+            "dc.date": "2000-11-10",
+            "title": "Patent US6931387 - Method and system for ergonomic assessment and reduction of workplace injuries",
+            "og:type": "book",
+            "dc.relation": "US:6101490",
+            "og:url": "http://www.google.com/patents/US6931387",
+            "citation_patent_application_number": "US:09/710,488",
+            "citation_reference": "A. Grieco, \"Application of the concise exposure index (ORCA) to tasks involving repetitive movements of the upper limbs in a variety of manufacturing industries: preliminary validations,\" Technical Paper, Ergonomics, 1998, vol. 41, No. 9, pp. 1347-1356.",
+            "og:image": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1",
+            "dc.type": "Patent",
+            "dc.contributor": "Robert P. Wong",
+            "dc.description": "A method and system for facilitating resolution of engineering and business issues is provided which comprises an issue component for identifying the issues to be resolved, an inquiry component for facilitating collection of client information relevant to the issue component to facilitate definition of the issue component, a knowledge base comprising data and information for facilitating assessment of the client information; and a solution base for compiling assessments and recommendations from the knowledge base and for reporting the assessments and recommendations to a client. In addition, the system can include a network for communicating the client information to the knowledge base and for communicating the assessments and recommendations to the client. The knowledge base comprises an artificial intelligence engine for assessing the client information, wherein the artificial intelligence engine is configured for comparing the new issue with an existing issue within a database to determine if similar, and ",
+            "og:site_name": "Google Books"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "http://patentimages.storage.googleapis.com/thumbnails/US6931387B1/US06931387-20050816-D00003.png"
+          }
+        ]
+      },
+      "htmlSnippet": "Aug 16, 2005 <b>...</b> The knowledge base comprises an <b>artificial intelligence</b> engine for assessing the <br>\nclient information, wherein the <b>artificial intelligence</b> engine is&nbsp;...",
+      "title": "Patent US6931387 - Method and system for ergonomic assessment ...",
+      "snippet": "Aug 16, 2005 ... The knowledge base comprises an artificial intelligence engine for assessing the \nclient information, wherein the artificial intelligence engine is\u00a0...",
+      "kind": "customsearch#result",
+      "formattedUrl": "www.google.com/patents/US6931387",
+      "htmlFormattedUrl": "www.google.com/patents/US6931387"
+    },
+    {
+      "htmlTitle": "Patent US7080057 - Electronic employee selection systems and <b>...</b>",
+      "link": "http://www.google.com/patents/US7080057",
+      "displayLink": "www.google.com",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "height": "96",
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSR7peoYM50ewQDs-8mDN8oiwYz8cnPkvKP26yxmtKU5zs6L0mdlXep",
+            "width": "92"
+          }
+        ],
+        "book": [
+          {
+            "image": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1",
+            "name": "Patent US7080057 - Electronic employee selection systems and methods",
+            "url": "http://www.google.com/patents/US7080057?utm_source=gb-gplus-share",
+            "description": "An automated employee selection system can use a variety of techniques to provide information for assisting in selection of employees. For example, pre-hire and post-hire information can be..."
+          }
+        ],
+        "metatags": [
+          {
+            "dc.title": "Electronic employee selection systems and methods",
+            "dc.date": "2001-8-2",
+            "dc.relation": "US:20010011280:A1",
+            "dc.type": "Patent",
+            "dc.contributor": "David J. Scarborough",
+            "dc.description": "An automated employee selection system can use a variety of techniques to provide information for assisting in selection of employees. For example, pre-hire and post-hire information can be collected electronically and used to build an artificial-intelligence based model. The model can then be used to predict a desired job performance criterion (e.g., tenure, number of accidents, sales level, or the like) for new applicants. A wide variety of features can be supported, such as electronic reporting. Pre-hire information identified as ineffective can be removed from a collected pre-hire information. For example, ineffective questions can be identified and removed from a job application. New items can be added and their effectiveness tested. As a result, a system can exhibit adaptive learning and maintain or increase effectiveness even under changing conditions."
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "http://patentimages.storage.googleapis.com/thumbnails/US7080057B2/US07080057-20060718-D00003.png"
+          }
+        ]
+      },
+      "htmlSnippet": "Jul 18, 2006 <b>...</b> For example, pre-hire and post-hire information can be collected electronically <br>\nand used to build an <b>artificial</b>-<b>intelligence</b> based model.",
+      "title": "Patent US7080057 - Electronic employee selection systems and ...",
+      "snippet": "Jul 18, 2006 ... For example, pre-hire and post-hire information can be collected electronically \nand used to build an artificial-intelligence based model.",
+      "kind": "customsearch#result",
+      "formattedUrl": "www.google.com/patents/US7080057",
+      "htmlFormattedUrl": "www.google.com/patents/US7080057"
+    },
+    {
+      "htmlTitle": "Patent WO2010143935A1 - A method of risk model development <b>...</b>",
+      "link": "http://www.google.com/patents/WO2010143935A1?cl=en",
+      "displayLink": "www.google.com",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "height": "136",
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSzBH48f88Gq9WxwAZGGxk9A80ZaDIYbpubcAX50-3fP9eD30Tc4kKUn2Y",
+            "width": "370"
+          }
+        ],
+        "book": [
+          {
+            "image": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1",
+            "name": "Patent WO2010143935A1 - A method of risk model development",
+            "url": "http://www.google.com/patents/WO2010143935A1?cl=en&utm_source=gb-gplus-share",
+            "description": "A method of risk model development is provided where the method includes the steps of extracting a line profile from an occupancy map, detecting peaks in the line profile, modeling the peak..."
+          }
+        ],
+        "metatags": [
+          {
+            "og:title": "Patent WO2010143935A1 - A method of risk model development",
+            "dc.date": "2010-6-2",
+            "dc.relation": "US:20070016542:A1",
+            "title": "Patent WO2010143935A1 - A method of risk model development",
+            "og:type": "book",
+            "citation_patent_publication_number": "WO:2010143935:A1",
+            "og:url": "http://www.google.com/patents/WO2010143935A1?cl=en",
+            "citation_patent_application_number": "WO:PCT/MY2010/000092",
+            "dc.title": "A method of risk model development",
+            "og:image": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1",
+            "dc.type": "Patent",
+            "dc.contributor": "Hock Woon Hon",
+            "dc.description": "A method of risk model development is provided where the method includes the steps of extracting a line profile from an occupancy map, detecting peaks in the line profile, modeling the peak inline with Gaussian distributing equation, populating an occupancy graph by rows and columns, calculating a path deviation risk table and generating a path deviation risk map from the risk table.",
+            "og:site_name": "Google Books"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "http://patentimages.storage.googleapis.com/WO2010143935A1/imgf000008_0001.png"
+          }
+        ]
+      },
+      "htmlSnippet": "Dec 16, 2010 <b>...</b> The method as claimed in claim 1 , wherein the occupancy map is derived from <br>\nmachine learning systems or existing <b>artificial intelligence</b>&nbsp;...",
+      "title": "Patent WO2010143935A1 - A method of risk model development ...",
+      "snippet": "Dec 16, 2010 ... The method as claimed in claim 1 , wherein the occupancy map is derived from \nmachine learning systems or existing artificial intelligence\u00a0...",
+      "kind": "customsearch#result",
+      "formattedUrl": "www.google.com/patents/WO2010143935A1?cl=en",
+      "htmlFormattedUrl": "www.google.com/patents/WO2010143935A1?cl=en"
+    }
+  ]
+}

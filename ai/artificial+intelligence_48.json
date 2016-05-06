@@ -1,0 +1,533 @@
+{
+  "searchInformation": {
+    "formattedTotalResults": "4,030,000",
+    "searchTime": 0.256662,
+    "formattedSearchTime": "0.26",
+    "totalResults": "4030000"
+  },
+  "context": {
+    "title": "Patent Analysis"
+  },
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "nextPage": [
+      {
+        "startIndex": 58,
+        "safe": "off",
+        "searchTerms": "artificial intelligence",
+        "cx": "000401063296163684824:-zjnv7z7vhu",
+        "inputEncoding": "utf8",
+        "title": "Google Custom Search - artificial intelligence",
+        "outputEncoding": "utf8",
+        "totalResults": "4030000",
+        "count": 10
+      }
+    ],
+    "previousPage": [
+      {
+        "startIndex": 38,
+        "safe": "off",
+        "searchTerms": "artificial intelligence",
+        "cx": "000401063296163684824:-zjnv7z7vhu",
+        "inputEncoding": "utf8",
+        "title": "Google Custom Search - artificial intelligence",
+        "outputEncoding": "utf8",
+        "totalResults": "4030000",
+        "count": 10
+      }
+    ],
+    "request": [
+      {
+        "startIndex": 48,
+        "safe": "off",
+        "searchTerms": "artificial intelligence",
+        "cx": "000401063296163684824:-zjnv7z7vhu",
+        "inputEncoding": "utf8",
+        "title": "Google Custom Search - artificial intelligence",
+        "outputEncoding": "utf8",
+        "totalResults": "4030000",
+        "count": 10
+      }
+    ]
+  },
+  "items": [
+    {
+      "htmlTitle": "Patent US6470170 - System and method for interactive distance <b>...</b>",
+      "link": "https://www.google.com/patents/US6470170",
+      "displayLink": "www.google.com",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "height": "96",
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSHnq5vGPUpJ3NkQf0eO4Gs1qb0bG2zbJrNLAj1oyCmiMu-0ugsvWW5XQ",
+            "width": "75"
+          }
+        ],
+        "book": [
+          {
+            "image": "https://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1",
+            "name": "Patent US6470170 - System and method for interactive distance learning and examination training",
+            "url": "https://www.google.com/patents/US6470170?utm_source=gb-gplus-share",
+            "description": "A system for learning and examination training is disclosed. A student can log on the system through a website to review training history, to access a menu of levels of practice examinations..."
+          }
+        ],
+        "metatags": [
+          {
+            "og:title": "Patent US6470170 - System and method for interactive distance learning and examination training",
+            "dc.date": "2001-5-16",
+            "citation_patent_number": "US:6470170",
+            "dc.relation": "US:20010039003:A1",
+            "title": "Patent US6470170 - System and method for interactive distance learning and examination training",
+            "og:type": "book",
+            "og:url": "https://www.google.com/patents/US6470170",
+            "citation_patent_application_number": "US:09/858,620",
+            "dc.title": "System and method for interactive distance learning and examination training",
+            "og:image": "https://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1",
+            "dc.type": "Patent",
+            "dc.contributor": "Hai Xing Chen",
+            "dc.description": "A system for learning and examination training is disclosed. A student can log on the system through a website to review training history, to access a menu of levels of practice examinations of interest to him, and to select training exams on the website. During the examination, the student is able to indicate whether or not help is required at any given point or question. Without regard to whether or not the student believes help is required, all students are subject to a dynamic/interactive evaluation of responses in which a teacher who is on-line with the same website at the time of the student is able to intervene during an examination to invoke help options for the student. In the first instance, the teacher can intervene to change the exam level to either a lower or to a higher one. Among the help options available to a student during an examination within a given level are \u201cauto coach\u201d in which the student is provided with hints and examples; an adaptive question selection in which variations of th",
+            "og:site_name": "Google Books"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://patentimages.storage.googleapis.com/thumbnails/US6470170B1/US06470170-20021022-D00002.png"
+          }
+        ]
+      },
+      "htmlSnippet": "Oct 22, 2002 <b>...</b> (c) providing a module interface means which notifies a teacher or <b>artificial</b> <br>\n<b>intelligence</b> module that a student has logged onto said website;.",
+      "title": "Patent US6470170 - System and method for interactive distance ...",
+      "snippet": "Oct 22, 2002 ... (c) providing a module interface means which notifies a teacher or artificial \nintelligence module that a student has logged onto said website;.",
+      "kind": "customsearch#result",
+      "formattedUrl": "https://www.google.com/patents/US6470170",
+      "htmlFormattedUrl": "https://www.google.com/patents/US6470170"
+    },
+    {
+      "htmlTitle": "Patent US8429103 - Native machine learning service for user <b>...</b>",
+      "link": "http://www.google.com/patents/US8429103",
+      "displayLink": "www.google.com",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "height": "96",
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBgHlAqZMjAvnM9CAomEejAV2N7MtgAXuqiyrpufP7VCvgVXtiyW-aCQ",
+            "width": "75"
+          }
+        ],
+        "book": [
+          {
+            "image": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1",
+            "name": "Patent US8429103 - Native machine learning service for user adaptation on a mobile platform",
+            "url": "http://www.google.com/patents/US8429103?utm_source=gb-gplus-share",
+            "description": "Disclosed are apparatus and methods for providing machine-learning services. A machine-learning service executing on a mobile platform can receive data related to a plurality of features. In..."
+          }
+        ],
+        "metatags": [
+          {
+            "citation_reference": "A. Hac et al.,\"Resource Allocation Scheme for QoS Provisioning in Microcellular Networks Carrying Multimedia Traffic\", International Journal of Network Management, Sep. 2001, pp. 277-307, vol. 11, issue 5, John Wiley & Sons, Ltd., New York, NY.",
+            "dc.title": "Native machine learning service for user adaptation on a mobile platform",
+            "dc.date": "2012-8-2",
+            "dc.relation": "EP:2048656",
+            "dc.type": "Patent",
+            "dc.contributor": "Hrishikesh Aradhye",
+            "dc.description": "Disclosed are apparatus and methods for providing machine-learning services. A machine-learning service executing on a mobile platform can receive data related to a plurality of features. In some cases, the received data can include data related to features received from an application and data related to features received from the mobile platform. The machine-learning service can determine at least one feature based on the received data. The machine-learning service can generate an output by performing a machine-learning operation on the at least one feature. The machine-learning operation can be selected from among an operation of ranking the at least one feature, an operation of classifying the at least one feature, an operation of predicting the at least one feature, and an operation of clustering the at least one feature. The machine-learning service can send the output."
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "http://patentimages.storage.googleapis.com/thumbnails/US8429103B1/US08429103-20130423-D00004.png"
+          }
+        ]
+      },
+      "htmlSnippet": "Apr 23, 2013 <b>...</b> Disclosed are apparatus and methods for providing machine-learning services. A <br>\nmachine-learning service executing on a mobile platform can&nbsp;...",
+      "title": "Patent US8429103 - Native machine learning service for user ...",
+      "snippet": "Apr 23, 2013 ... Disclosed are apparatus and methods for providing machine-learning services. A \nmachine-learning service executing on a mobile platform can\u00a0...",
+      "kind": "customsearch#result",
+      "formattedUrl": "www.google.com/patents/US8429103",
+      "htmlFormattedUrl": "www.google.com/patents/US8429103"
+    },
+    {
+      "htmlTitle": "Patent US8504490 - Web-scale entity relationship extraction that <b>...</b>",
+      "link": "http://www.google.com/patents/US8504490",
+      "displayLink": "www.google.com",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "height": "97",
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRizflz4eOrUPkfVL4_TmfwE-_SHNSio67wR4WgbHqCuD4HhFHQNgF9qw",
+            "width": "65"
+          }
+        ],
+        "book": [
+          {
+            "image": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1",
+            "name": "Patent US8504490 - Web-scale entity relationship extraction that extracts pattern(s) based on an extracted tuple",
+            "url": "http://www.google.com/patents/US8504490?utm_source=gb-gplus-share",
+            "description": "Methods and systems for Web-scale entity relationship extraction are usable to build large-scale entity relationship graphs from any data corpora stored on a computer-readable medium or accessible..."
+          }
+        ],
+        "metatags": [
+          {
+            "citation_reference": "Agichtein, et al., Snowball Extractiing Relations from Large Plain-Text Collections:, International Conference on Digital Libraries, Proceedings of the fifth ACM conference on Digital libraries, San Antonio TX, 2000, pp. 85-94.",
+            "dc.title": "Web-scale entity relationship extraction that extracts pattern(s) based on an extracted tuple",
+            "dc.date": "2010-4-9",
+            "dc.relation": "US:20080065623:A1",
+            "dc.type": "Patent",
+            "dc.contributor": "Zaiqing Nie",
+            "dc.description": "Methods and systems for Web-scale entity relationship extraction are usable to build large-scale entity relationship graphs from any data corpora stored on a computer-readable medium or accessible through a network. Such entity relationship graphs may be used to navigate previously undiscoverable relationships among entities within data corpora. Additionally, the entity relationship extraction may be configured to utilize discriminative models to jointly model correlated data found within the selected corpora."
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "http://patentimages.storage.googleapis.com/thumbnails/US8504490B2/US08504490-20130806-D00003.png"
+          }
+        ]
+      },
+      "htmlSnippet": "Aug 6, 2013 <b>...</b> ... the Nineteenth International Joint Conference on <b>Artificial Intelligence</b>, ... <br>\nDiscovery in Databases, Lecture Notes in <b>Artificial Intelligence</b>, vol.",
+      "title": "Patent US8504490 - Web-scale entity relationship extraction that ...",
+      "snippet": "Aug 6, 2013 ... ... the Nineteenth International Joint Conference on Artificial Intelligence, ... \nDiscovery in Databases, Lecture Notes in Artificial Intelligence, vol.",
+      "kind": "customsearch#result",
+      "formattedUrl": "www.google.com/patents/US8504490",
+      "htmlFormattedUrl": "www.google.com/patents/US8504490"
+    },
+    {
+      "htmlTitle": "Patent US7330850 - Text mining system for web-based business <b>...</b>",
+      "link": "https://www.google.com/patents/US7330850",
+      "displayLink": "www.google.com",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "height": "96",
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSMlSZtNCxrBYvUQbBsqTkYzIgcemqyzrgtqAPIy6a-8LEHa437zUqv",
+            "width": "90"
+          }
+        ],
+        "book": [
+          {
+            "image": "https://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1",
+            "name": "Patent US7330850 - Text mining system for web-based business intelligence applied to web site server logs",
+            "url": "https://www.google.com/patents/US7330850?utm_source=gb-gplus-share",
+            "description": "A text mining system for collecting business intelligence about a client, as well as for identifying prospective customers of the client, for use in a lead generation system accessible by the..."
+          }
+        ],
+        "metatags": [
+          {
+            "dc.title": "Text mining system for web-based business intelligence applied to web site server logs",
+            "dc.date": "2001-10-4",
+            "dc.relation": "US:20020035568:A1",
+            "dc.type": "Patent",
+            "dc.contributor": "John C. Seibel",
+            "dc.description": "A text mining system for collecting business intelligence about a client, as well as for identifying prospective customers of the client, for use in a lead generation system accessible by the client via the Internet. The text mining system has various components, including a data acquisition process that extracts textual data from Internet web sites, including their logs, content, processes, and transactions. The system compares log data to content and process data, and relates the results of the comparison to transaction data. This permits the system to provide aggregate cluster data representing statistics useful for customer lead generation."
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://patentimages.storage.googleapis.com/thumbnails/US7330850B1/US07330850-20080212-D00002.png"
+          }
+        ]
+      },
+      "htmlSnippet": "Feb 12, 2008 <b>...</b> A text mining system for collecting business intelligence about a client, ... 2000 <br>\nAmerican Association for <b>Artificial Intelligence</b>, 6 pages, 2000.",
+      "title": "Patent US7330850 - Text mining system for web-based business ...",
+      "snippet": "Feb 12, 2008 ... A text mining system for collecting business intelligence about a client, ... 2000 \nAmerican Association for Artificial Intelligence, 6 pages, 2000.",
+      "kind": "customsearch#result",
+      "formattedUrl": "https://www.google.com/patents/US7330850",
+      "htmlFormattedUrl": "https://www.google.com/patents/US7330850"
+    },
+    {
+      "htmlTitle": "Patent US5982853 - Telephone for the deaf and method of using <b>...</b>",
+      "link": "http://www.google.com/patents/US5982853",
+      "displayLink": "www.google.com",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "height": "96",
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRaBZsF92Gnaw9RDVtGvPglHMnwpREvbBSJM87UfSkw5uZgZvJA3AwhJQ",
+            "width": "66"
+          }
+        ],
+        "book": [
+          {
+            "image": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1",
+            "name": "Patent US5982853 - Telephone for the deaf and method of using same",
+            "url": "http://www.google.com/patents/US5982853?utm_source=gb-gplus-share",
+            "description": "An electronic communications system for the deaf includes a video apparatus for observing and digitizing the facial, body and hand and finger signing motions of a deaf person, an electronic..."
+          }
+        ],
+        "metatags": [
+          {
+            "og:title": "Patent US5982853 - Telephone for the deaf and method of using same",
+            "dc.title": "Telephone for the deaf and method of using same",
+            "citation_patent_number": "US:5982853",
+            "dc.date": "1996-5-23",
+            "title": "Patent US5982853 - Telephone for the deaf and method of using same",
+            "og:type": "book",
+            "dc.relation": "US:4546383",
+            "og:url": "http://www.google.com/patents/US5982853",
+            "citation_patent_application_number": "US:08/653,732",
+            "citation_reference": "The article \"Application of Artificial Neural Networks IV\" by Steven K. Rogers, pp. 587-599, Apr. 1993.",
+            "og:image": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1",
+            "dc.type": "Patent",
+            "dc.contributor": "Raanan Liebermann",
+            "dc.description": "An electronic communications system for the deaf includes a video apparatus for observing and digitizing the facial, body and hand and finger signing motions of a deaf person, an electronic translator for translating the digitized signing motions into words and phrases, and an electronic output for the words and phrases. The video apparatus desirably includes both a video camera and a video display which will display signing motions provided by translating spoken words of a hearing person into digitized images. The system may function as a translator by outputting the translated words and phrases as synthetic speech at the deaf person's location for another person at that location, and that person's speech may be picked up, translated, and displayed as signing motions on a display in the video apparatus.",
+            "og:site_name": "Google Books"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "http://patentimages.storage.googleapis.com/thumbnails/pages/US5982853-4.png"
+          }
+        ]
+      },
+      "htmlSnippet": "Nov 9, 1999 <b>...</b> The electronic communications system in accordance with claim 1 wherein said <br>\ntranslating means also includes <b>artificial intelligence</b> for&nbsp;...",
+      "title": "Patent US5982853 - Telephone for the deaf and method of using ...",
+      "snippet": "Nov 9, 1999 ... The electronic communications system in accordance with claim 1 wherein said \ntranslating means also includes artificial intelligence for\u00a0...",
+      "kind": "customsearch#result",
+      "formattedUrl": "www.google.com/patents/US5982853",
+      "htmlFormattedUrl": "www.google.com/patents/US5982853"
+    },
+    {
+      "htmlTitle": "Patent US20030152183 - Interstellar transport vehicle engine <b>...</b>",
+      "link": "http://www.google.com/patents/US20030152183",
+      "displayLink": "www.google.com",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "height": "96",
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQFNKoBYbKTBy5gRSSjHbay5qc9iDsBrl5dI0hyV6kJ32RxQXi8Ym9i0w",
+            "width": "72"
+          }
+        ],
+        "book": [
+          {
+            "image": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1",
+            "name": "Patent US20030152183 - Interstellar transport vehicle engine",
+            "url": "http://www.google.com/patents/US20030152183?utm_source=gb-gplus-share",
+            "description": "This Patent Application is a 10-year culmination of my efforts to create an interstellar transport vehicle engine, and have finally arrived at providing a new means of transportation for distances..."
+          }
+        ],
+        "metatags": [
+          {
+            "og:title": "Patent US20030152183 - Interstellar transport vehicle engine",
+            "dc.date": "2002-2-14",
+            "title": "Patent US20030152183 - Interstellar transport vehicle engine",
+            "og:type": "book",
+            "citation_patent_publication_number": "US:20030152183:A1",
+            "og:url": "http://www.google.com/patents/US20030152183",
+            "citation_patent_application_number": "US:10/074,934",
+            "dc.title": "Interstellar transport vehicle engine",
+            "og:image": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1",
+            "dc.type": "Patent",
+            "dc.contributor": "Peter Catalasan",
+            "dc.description": "This Patent Application is a 10-year culmination of my efforts to create an interstellar transport vehicle engine, and have finally arrived at providing a new means of transportation for distances outside our known solar system. This vehicle creates matter on its own providing a foothold in space by ejecting antimatter for propulsion. However, I have gone farther than that by creating an engine that annihilates the antimatter with another generated matter for the safety of our human environment and to maximize matter-antimatter particle reactions for greater propulsion in space. With the Catalasan Nuclear Fusion Reactor coupled with two Electro-Nucleo Genesoids, this engine can travel to the far reaches of interstellar space. With all due respect, please note that this application contains dependent connections to two separate applications called the Catalasan Nuclear Fusion Reactor, a rotating centrifugal laser nuclear fusion reactor, and Electro-Nucleo Genesoids, unlimited energy by matter-antimatter produc",
+            "og:site_name": "Google Books"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "http://patentimages.storage.googleapis.com/thumbnails/US20030152183A1/US20030152183A1-20030814-D00001.png"
+          }
+        ]
+      },
+      "htmlSnippet": "Aug 14, 2003 <b>...</b> Interstellar <b>Artificial Intelligence</b> Guided Probe. Description. TABLE OF <br>\nCONTENTS. [0001]. I. Field of Invention. [0002]. II. Summary of Invention.",
+      "title": "Patent US20030152183 - Interstellar transport vehicle engine ...",
+      "snippet": "Aug 14, 2003 ... Interstellar Artificial Intelligence Guided Probe. Description. TABLE OF \nCONTENTS. [0001]. I. Field of Invention. [0002]. II. Summary of Invention.",
+      "kind": "customsearch#result",
+      "formattedUrl": "www.google.com/patents/US20030152183",
+      "htmlFormattedUrl": "www.google.com/patents/US20030152183"
+    },
+    {
+      "htmlTitle": "Patent US5485390 - Inductive-deductive process design for <b>...</b>",
+      "link": "https://www.google.com/patents/US5485390",
+      "displayLink": "www.google.com",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "height": "96",
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTx-L7sENzKqq0WzVSZ0_yRlQpH7s-699Q0guZU_9I5jBbSILPKv_cP",
+            "width": "66"
+          }
+        ],
+        "book": [
+          {
+            "image": "https://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1",
+            "name": "Patent US5485390 - Inductive-deductive process design for machined parts",
+            "url": "https://www.google.com/patents/US5485390?utm_source=gb-gplus-share",
+            "description": "In the design of the process to machine discrete mechanical parts, the sequence of removing material is arrived at to ensure that the resulting part is of the correct geometry and finish, and..."
+          }
+        ],
+        "metatags": [
+          {
+            "og:title": "Patent US5485390 - Inductive-deductive process design for machined parts",
+            "dc.title": "Inductive-deductive process design for machined parts",
+            "citation_patent_number": "US:5485390",
+            "dc.date": "1993-11-30",
+            "title": "Patent US5485390 - Inductive-deductive process design for machined parts",
+            "og:type": "book",
+            "dc.relation": "US:5204936",
+            "og:url": "https://www.google.com/patents/US5485390",
+            "citation_patent_application_number": "US:08/159,968",
+            "citation_reference": "Al Kamhawi, Feature Sequencing in the Rapid Design System Using an Evolutionary Program, Masters Thesis, Department of Computer Science and Engineering, Wright State University, Dayton, Ohio, Jul. 1993.",
+            "og:image": "https://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1",
+            "dc.type": "Patent",
+            "dc.contributor": "Steven R. LeClair",
+            "dc.description": "In the design of the process to machine discrete mechanical parts, the sequence of removing material is arrived at to ensure that the resulting part is of the correct geometry and finish, and the process is safe, feasible and accomplished in minimum time. For complex parts, an experienced machinist makes use of inductive methods to relate similar part material, geometries together with interdependencies and their associated machining sequences which have produced quality parts in the past with minimum time expended, or deductive methods to generate a sequence by relating feature attributes (relative size and position) and relations (intersections and common tooling). Of interest is the interaction between the two methods because their coupling enables a self-improving design system to be realized. A feature-based solid modelling software environment provides the elements of a symbolic language for describing a discrete mechanical part in terms of its product and process design. The language is based on the us",
+            "og:site_name": "Google Books"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://patentimages.storage.googleapis.com/thumbnails/pages/US5485390-5.png"
+          }
+        ]
+      },
+      "htmlSnippet": "Jan 16, 1996 <b>...</b> ... S. R., &amp; Chen, C. L. P., Episodal Associative Memory Approach for Sequencing <br>\nInteractive Features in Process Planning, <b>Artificial Intelligence</b>&nbsp;...",
+      "title": "Patent US5485390 - Inductive-deductive process design for ...",
+      "snippet": "Jan 16, 1996 ... ... S. R., & Chen, C. L. P., Episodal Associative Memory Approach for Sequencing \nInteractive Features in Process Planning, Artificial Intelligence\u00a0...",
+      "kind": "customsearch#result",
+      "formattedUrl": "https://www.google.com/patents/US5485390",
+      "htmlFormattedUrl": "https://www.google.com/patents/US5485390"
+    },
+    {
+      "htmlTitle": "Patent US7633076 - Automated response to and sensing of user <b>...</b>",
+      "link": "http://www.google.com/patents/US7633076",
+      "displayLink": "www.google.com",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "height": "96",
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQLKtvGtpMCDAmptI38B-mg8ewUdf-j0v3mrZKeqAqPx-Nho3HAWL8wQw",
+            "width": "90"
+          }
+        ],
+        "book": [
+          {
+            "image": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1",
+            "name": "Patent US7633076 - Automated response to and sensing of user activity in portable devices",
+            "url": "http://www.google.com/patents/US7633076?utm_source=gb-gplus-share",
+            "description": "The various methods and devices described herein relate to devices which, in at least certain embodiments, may include one or more sensors for providing data relating to user activity and at..."
+          }
+        ],
+        "metatags": [
+          {
+            "dc.title": "Automated response to and sensing of user activity in portable devices",
+            "dc.date": "2009-12-15",
+            "dc.relation": "EP:1185058:A2",
+            "dc.type": "Patent",
+            "dc.contributor": "Brian Huppi",
+            "dc.description": "The various methods and devices described herein relate to devices which, in at least certain embodiments, may include one or more sensors for providing data relating to user activity and at least one processor for causing the device to respond based on the user activity which was determined, at least in part, through the sensors. The response by the device may include a change of state of the device, and the response may be automatically performed after the user activity is determined."
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "http://patentimages.storage.googleapis.com/thumbnails/US7633076B2/US07633076-20091215-D00003.png"
+          }
+        ]
+      },
+      "htmlSnippet": "Dec 15, 2009 <b>...</b> In at least certain embodiments, the analyzing may use an <b>artificial intelligence</b> <br>\nprocess which includes a comparison of data, derived from the&nbsp;...",
+      "title": "Patent US7633076 - Automated response to and sensing of user ...",
+      "snippet": "Dec 15, 2009 ... In at least certain embodiments, the analyzing may use an artificial intelligence \nprocess which includes a comparison of data, derived from the\u00a0...",
+      "kind": "customsearch#result",
+      "formattedUrl": "www.google.com/patents/US7633076",
+      "htmlFormattedUrl": "www.google.com/patents/US7633076"
+    },
+    {
+      "htmlTitle": "Patent WO2006087565A2 - Mass spectrometry precursor ion <b>...</b>",
+      "link": "http://www.google.com/patents/WO2006087565A2?cl=en",
+      "displayLink": "www.google.com",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "height": "233",
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQgokXeZcXdxABRlMYbBXc3PRrNX92toKV6aowc8CSb5CShBMZHMpLa-Yc",
+            "width": "216"
+          }
+        ],
+        "book": [
+          {
+            "image": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1",
+            "name": "Patent WO2006087565A2 - Mass spectrometry precursor ion selection",
+            "url": "http://www.google.com/patents/WO2006087565A2?cl=en&utm_source=gb-gplus-share",
+            "description": "The present invention is concerned with methods for the selection of precursor ions of a sample polypeptide for fragmentation in mass spectrometry, together with methods for determining at..."
+          }
+        ],
+        "metatags": [
+          {
+            "og:title": "Patent WO2006087565A2 - Mass spectrometry precursor ion selection",
+            "dc.title": "Mass spectrometry precursor ion selection",
+            "dc.date": "2006-2-17",
+            "dc.relation": "WO:2003102572:A2",
+            "title": "Patent WO2006087565A2 - Mass spectrometry precursor ion selection",
+            "og:type": "book",
+            "citation_patent_publication_number": "WO:2006087565:A2",
+            "og:url": "http://www.google.com/patents/WO2006087565A2?cl=en",
+            "citation_patent_application_number": "WO:PCT/GB2006/000560",
+            "citation_reference": "ANDERSON D C ET AL:  \"A new algorithm for the evaluation of shotgun peptide sequencing in proteomics: Support vector machine classification of peptide MS/MS spectra and SEQUEST scores.\" JOURNAL OF PROTEOME RESEARCH, vol. 2, no. 2, 2003, pages 137-146, XP002391044 ISSN: 1535-3893",
+            "og:image": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1",
+            "dc.type": "Patent",
+            "dc.contributor": "Michael May",
+            "dc.description": "The present invention is concerned with methods for the selection of precursor ions of a sample polypeptide for fragmentation in mass spectrometry, together with methods for determining at least one putative amino acid sequence for a sample polypeptide, apparatus and computer programs for same.",
+            "og:site_name": "Google Books"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "http://patentimages.storage.googleapis.com/WO2006087565A2/imgf000036_0001.png"
+          }
+        ]
+      },
+      "htmlSnippet": "Aug 24, 2006 <b>...</b> (ii) analysing using an <b>artificial intelligence</b> technique said m/z peaks of said at <br>\nleast two candidate m/z peak sets, to select at least one m/z&nbsp;...",
+      "title": "Patent WO2006087565A2 - Mass spectrometry precursor ion ...",
+      "snippet": "Aug 24, 2006 ... (ii) analysing using an artificial intelligence technique said m/z peaks of said at \nleast two candidate m/z peak sets, to select at least one m/z\u00a0...",
+      "kind": "customsearch#result",
+      "formattedUrl": "www.google.com/patents/WO2006087565A2?cl=en",
+      "htmlFormattedUrl": "www.google.com/patents/WO2006087565A2?cl=en"
+    },
+    {
+      "htmlTitle": "Patent US8374796 - Integrated biosensor and simulation system for <b>...</b>",
+      "link": "http://www.google.com/patents/US8374796",
+      "displayLink": "www.google.com",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "height": "96",
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQCWJHWWqTEpFlg4EyuAAmtkL8eYMe0ryUlE_HVt2UJ9Map5I2895l8TA",
+            "width": "71"
+          }
+        ],
+        "book": [
+          {
+            "image": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1",
+            "name": "Patent US8374796 - Integrated biosensor and simulation system for diagnosis and therapy",
+            "url": "http://www.google.com/patents/US8374796?utm_source=gb-gplus-share",
+            "description": "BioMEMS/NEMS appliance biologically monitors an individual, using biosensors to detect cellular components. Data is simulated or analyzed using systems-biology software, which provides diagnostic..."
+          }
+        ],
+        "metatags": [
+          {
+            "dc.title": "Integrated biosensor and simulation system for diagnosis and therapy",
+            "dc.date": "2009-4-14",
+            "dc.relation": "EP:0867830:A2",
+            "dc.type": "Patent",
+            "dc.contributor": "Dennis S. Fernandez",
+            "dc.description": "BioMEMS/NEMS appliance biologically monitors an individual, using biosensors to detect cellular components. Data is simulated or analyzed using systems-biology software, which provides diagnostic or therapeutic guidance."
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "http://patentimages.storage.googleapis.com/thumbnails/US8374796B2/US08374796-20130212-D00003.png"
+          }
+        ]
+      },
+      "htmlSnippet": "Feb 12, 2013 <b>...</b> To assist in medical decision-making, systems-biology platform 104 may <br>\nimplement <b>artificial intelligence</b> or decision techniques, particularly&nbsp;...",
+      "title": "Patent US8374796 - Integrated biosensor and simulation system for ...",
+      "snippet": "Feb 12, 2013 ... To assist in medical decision-making, systems-biology platform 104 may \nimplement artificial intelligence or decision techniques, particularly\u00a0...",
+      "kind": "customsearch#result",
+      "formattedUrl": "www.google.com/patents/US8374796",
+      "htmlFormattedUrl": "www.google.com/patents/US8374796"
+    }
+  ]
+}
