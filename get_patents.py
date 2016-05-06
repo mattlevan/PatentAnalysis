@@ -14,6 +14,8 @@ import urllib
 import time
 import json
 import sys
+from jsonmerge import merge
+from pprint import pprint
 
 # Get your own access token and custom search engine id (cse_id) from Google.
 access_token = "AIzaSyDbqANZ1QHg-V_gBK7EP8iPWVCeTun20Dc"
@@ -47,12 +49,17 @@ for i in range(1, end):
           "&tbm=pts" + \
           "&q=" + search_text
 
+    # Request data from Google Patents.
     response = requests.get(url)
     response.json()
 
+    # Write the response to a file.
     f = open(search_text + "_" + "{:02d}".format(i) + ".json", "w")
     f.write(json.dumps(response.json(), indent = 2))
     f.close()
 
     # Sleep for 1 second, API request limit.
     time.sleep(1) 
+
+# Merge the separate files into one file with one JSON object.
+
