@@ -14,7 +14,7 @@ import urllib
 import time
 import json
 import sys
-from jsonmerge import merge
+from jsonmerge import Merger
 from pprint import pprint
 
 # Get your own access token and custom search engine id (cse_id) from Google.
@@ -61,5 +61,4 @@ for i in range(1, end):
     # Sleep for 1 second, API request limit.
     time.sleep(1) 
 
-# Merge the separate files into one file with one JSON object.
 
